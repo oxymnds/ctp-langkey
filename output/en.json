@@ -10,5 +10,6 @@
     "create_account.label.not_us_citizen": "I am not a U.S. citizen and considered a ‘non-resident for tax purposes’.",
     "create_account.label.agree_with_term_and_privacy": "I agree with this terms & conditions  and Privacy Policy / AML & CTPF Policy agreements.",
     "create_account.label.receive_marketing_news": "I would like to receive marketing news, promotions, and any other information from Crypto and its affiliates.",
-    "create_account.button.next": "Next"
+    "create_account.button.next": "Next",
+    "create_account.button.confirm": "Confirm"
 }

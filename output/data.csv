@@ -11,3 +11,4 @@ Create Account,label,not_us_citizen,I am not a U.S. citizen and considered a ‘
 Create Account,label,agree_with_term_and_privacy,I agree with this terms & conditions  and Privacy Policy / AML & CTPF Policy agreements.,I agree with this terms & conditions  and Privacy Policy / AML & CTPF Policy agreements.
 Create Account,label,receive_marketing_news,"I would like to receive marketing news, promotions, and any other information from Crypto and its affiliates.","I would like to receive marketing news, promotions, and any other information from Crypto and its affiliates."
 Create Account,button,next,Next,ต่อไป
+Create Account,button,confirm,Confirm,ยืนยัน
