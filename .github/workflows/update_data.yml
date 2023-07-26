@@ -1,8 +1,14 @@
 name: Run Python Scripts and Open Pull Requests
 
+# on:
+#   schedule:
+#     - cron: "*/30 * * * *"
+
+# when push to develop branch
 on:
-  schedule:
-    - cron: "*/30 * * * *"
+  push:
+    branches:
+      - develop
 
 jobs:
   build:
