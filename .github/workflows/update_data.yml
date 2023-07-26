@@ -1,14 +1,8 @@
 name: Run Python Scripts and Commit Changes
 
-# on:
-#   schedule:
-#     - cron: "*/30 * * * *"
-
-# when push on main
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: "0/30 * * * *"
 
 jobs:
   build:
