@@ -37,7 +37,7 @@ jobs:
           changed=$(git diff-index --quiet HEAD --; echo $?)
           if [ $changed -eq 1 ]; then
             git commit -m "doc: update at $(date +'%d/%m/%Y %H:%M')"
-            git push
+            git push https://x-access-token:$GITHUB_TOKEN@github.com/oxymnds/ctp-langkey.git
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
