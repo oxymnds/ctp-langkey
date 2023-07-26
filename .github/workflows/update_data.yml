@@ -1,9 +1,14 @@
 name: Run Python Scripts and Commit Changes
 
+# on:
+#   schedule:
+#     - cron: "*/15 * * * *"
+
+# run every time a commit is pushed to the main branch
 on:
-  schedule:
-    # Run this workflow every 15 minutes
-    - cron: "*/15 * * * *"
+  push:
+    branches:
+      - main
 
 jobs:
   build:
