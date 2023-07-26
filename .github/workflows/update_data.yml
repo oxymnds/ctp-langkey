@@ -34,13 +34,6 @@ jobs:
         run: python generate.py
 
       - name: Commit and push
-        run: |
-          git config --global user.email "actions@github.com"
-          git config --global user.name "GitHub Action"
-          git remote set-url origin https://${{ secrets.PAT_TOKEN }}@github.com/oxymnds/ctp-langkey.git
-          git add -A
-          timestamp=$(date -u)
-          git commit -m "doc: update $timestamp" --allow-empty
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+        uses: actions-js/push@v1.4
+        with:
+          github_token: ${{ secrets.PAT_TOKEN }}
