@@ -36,7 +36,12 @@ jobs:
       - name: Run generate script
         run: python generate.py
 
-      - name: Commit and push
-        uses: actions-js/push@v1.4
+      - name: Update resources
+        uses: test-room-7/action-update-file@v1
         with:
-          github_token: ${{ secrets.PAT_TOKEN }}
+          file-path: |
+            output/data.csv
+            output/en.json
+            output/th.json
+          commit-msg: Update resources
+          github-token: ${{ secrets.GITHUB_TOKEN }}
