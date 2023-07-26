@@ -11,39 +11,30 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.PAT_TOKEN }} # Use PAT_TOKEN here
+          token: ${{ secrets.PAT_TOKEN }}  # Use PAT_TOKEN here
 
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: "3.x"
+          python-version: '3.x'
 
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests pandas
-
+      
       - name: Run download.py
         run: python download.py
-
+      
       - name: Run generate.py
         run: python generate.py
 
-  commit-and-push:
-    needs: run-scripts
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v7
         with:
-          token: ${{ secrets.PAT_TOKEN }} # Use PAT_TOKEN here
-
-      - name: Commit and push
-        run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@github.com'
-          git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git
-          git add .
-          TIMESTAMP=$(date "+%d/%m/%Y %H:%M")
-          git commit -m "doc: update at $TIMESTAMP" || echo "No changes to commit"
-          git push origin main
+          author_name: 'github-actions'
+          author_email: 'github-actions@github.com'
+          message: "doc: update at $(date +'%d/%m/%Y %H:%M')"
+          push: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
