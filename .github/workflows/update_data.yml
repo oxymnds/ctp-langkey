@@ -2,7 +2,7 @@ name: Update Data
 
 on:
   schedule:
-    - cron: "*/30 * * * *" # This line means the action will run every 30 minutes
+    - cron: "0/30 * * * *"
 
 jobs:
   run-scripts:
@@ -10,6 +10,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT_TOKEN }} # Use PAT_TOKEN here
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -33,6 +35,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT_TOKEN }} # Use PAT_TOKEN here
 
       - name: Commit and push
         run: |
