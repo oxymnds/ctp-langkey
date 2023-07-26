@@ -1,40 +1,49 @@
-name: Update Data
+name: Run Python Scripts and Commit Changes
 
 on:
   schedule:
-    - cron: "0/30 * * * *" # This line means the action will run every 30 minutes
+    # Run this workflow every 15 minutes
+    - cron: "*/15 * * * *"
 
 jobs:
-  run-scripts:
+  build:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.PAT_TOKEN }} # Use PAT_TOKEN here
 
+    steps:
+      # Check out the repository
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.PAT_TOKEN }} # use the PAT_TOKEN to authenticate
+
+      # Set up Python
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: "3.x"
+          python-version: 3.8
 
+      # Install dependencies
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests pandas
 
+      # Run download.py
       - name: Run download.py
         run: python download.py
 
+      # Run generate.py
       - name: Run generate.py
         run: python generate.py
 
-      - name: Commit and push changes
-        uses: EndBug/add-and-commit@v7
-        with:
-          author_name: "github-actions"
-          author_email: "github-actions@github.com"
-          message: "doc: update at $(date +'%d/%m/%Y %H:%M')"
-          push: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+      # Commit and push changes
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          changed=$(git diff-index --quiet HEAD --; echo $?)
+          if [ $changed = 1 ]; then
+            git commit -m "doc: update at $(date +'%d/%m/%Y %H:%M')"
+            git push
+          fi
