@@ -1,0 +1,13 @@
+Flow,Element,Context,English,Thai
+Create Account,label,welcome_message,Welcome to\nCryptoplat !,ยินดีต้อนรับสู่\nCryptoplat !
+Create Account,button,login,Log in,เข้าสู่ระบบ
+Create Account,button,create_account,Create Account,สร้างบัญชีใหม่
+Create Account,label,minimum_requirement,We support Safari version 11 and above.\nChrome version 53 and above for KYC.,รองรับ Safari เวอร์ชัน 11 หรือสูงกว่า\nChrome เวอร์ชัน 53 หรือสูงกว่า เพื่อการทำ KYC
+Create Account,label,email_field,Email,อีเมล์
+Create Account,placeholder,email_field,Email,อีเมล์
+Create Account,label,mobile_no_field,Mobile Number,เบอร์โทรศัพท์
+Create Account,placeholder,mobile_no_field,Mobile Number,เบอร์โทรศัพท์
+Create Account,label,not_us_citizen,I am not a U.S. citizen and considered a ‘non-resident for tax purposes’.,I am not a U.S. citizen and considered a ‘non-resident for tax purposes’.
+Create Account,label,agree_with_term_and_privacy,I agree with this terms & conditions  and Privacy Policy / AML & CTPF Policy agreements.,I agree with this terms & conditions  and Privacy Policy / AML & CTPF Policy agreements.
+Create Account,label,receive_marketing_news,"I would like to receive marketing news, promotions, and any other information from Crypto and its affiliates.","I would like to receive marketing news, promotions, and any other information from Crypto and its affiliates."
+Create Account,button,next,Next,ต่อไป

@@ -1,0 +1,44 @@
+name: Update Data
+
+on:
+  schedule:
+    - cron: "*/30 * * * *" # This line means the action will run every 30 minutes
+
+jobs:
+  run-scripts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.x"
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pandas
+
+      - name: Run download.py
+        run: python download.py
+
+      - name: Run generate.py
+        run: python generate.py
+
+  commit-and-push:
+    needs: run-scripts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Commit and push
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add .
+          TIMESTAMP=$(date "+%d/%m/%Y %H:%M")
+          git commit -m "doc: update at $TIMESTAMP" || echo "No changes to commit"
+          git push origin main
