@@ -31,13 +31,16 @@ jobs:
         run: |
           python download.py
           python generate.py
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-          changed=$(git diff-index --quiet HEAD --; echo $?)
-          if [ $changed -eq 1 ]; then
-            git commit -m "doc: update at $(date +'%d/%m/%Y %H:%M')"
-            git push https://x-access-token:$GITHUB_TOKEN@github.com/oxymnds/ctp-langkey.git
-          fi
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+
+      - name: commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "doc: update at $(date +'%d/%m/%Y %H:%M')"
+
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
