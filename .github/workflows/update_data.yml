@@ -40,4 +40,4 @@ jobs:
             git push https://x-access-token:$GITHUB_TOKEN@github.com/oxymnds/ctp-langkey.git
           fi
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
