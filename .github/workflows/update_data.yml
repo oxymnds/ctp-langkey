@@ -35,8 +35,9 @@ jobs:
           git config user.email github-actions@github.com
           git add .
           changed=$(git diff-index --quiet HEAD --; echo $?)
-          if [ $changed = 1 ]; then
+          if [ $changed -eq 1 ]; then
             git commit -m "doc: update at $(date +'%d/%m/%Y %H:%M')"
             git push
+          fi
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
