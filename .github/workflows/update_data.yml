@@ -2,7 +2,7 @@ name: Update Data
 
 on:
   schedule:
-    - cron: "0/30 * * * *"
+    - cron: "0/30 * * * *" # This line means the action will run every 30 minutes
 
 jobs:
   run-scripts:
@@ -11,29 +11,29 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.PAT_TOKEN }}  # Use PAT_TOKEN here
+          token: ${{ secrets.PAT_TOKEN }} # Use PAT_TOKEN here
 
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.x'
+          python-version: "3.x"
 
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests pandas
-      
+
       - name: Run download.py
         run: python download.py
-      
+
       - name: Run generate.py
         run: python generate.py
 
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v7
         with:
-          author_name: 'github-actions'
-          author_email: 'github-actions@github.com'
+          author_name: "github-actions"
+          author_email: "github-actions@github.com"
           message: "doc: update at $(date +'%d/%m/%Y %H:%M')"
           push: true
         env:
