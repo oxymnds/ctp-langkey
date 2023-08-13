@@ -280,5 +280,22 @@
     "recheck_info.label.net_asset_value": "Estimated Net Asset Value",
     "recheck_info.label.purpose_of_invest": "Purpose of Investment",
     "recheck_info.label.ultimate_beneficiary": "Ultimate Beneficiary",
-    "recheck_info.label.checkbox": "ข้าพเจ้าขอรับรองว่าข้อมูลและเอกสารที่ได้ส่งให้แก่ทาง cryptoplat ถูกต้องและเป็นความจริง และข้าพเจ้าตกลงให้ ความยินยอมรวมถึงให้การอนุญาตตามเงื่อนไขที่กำหนดทั้งหมด"
+    "recheck_info.label.checkbox": "I hereby certify that the information and documents submitted to cryptoplat are correct and true. and I agree Consent includes giving permission to all required conditions.",
+    "registered_success.label.subpage_title": "You have successfully\\nverified your identity.",
+    "registered_success.label.desc": "The result will be sent to your \\nregistered email within 24 hours.",
+    "registered_success.label.next_step": "Next step:",
+    "registered_success.label.take_suite_test": "Take the investment suitability test.",
+    "suite_test.label.page_title": "Suitability Test",
+    "suite_test.label.desc": "Next, please complete suitability test. \\nYou will not be able to start trading if \\nyou do not complete the test.",
+    "suite_test.label.estimate_time": "( The test will take around 5 minutes )",
+    "general.button.start": "Start",
+    "suite_test.label.result_subpage_title": "Your risk tolerance \\nassessment result",
+    "suite_test.label.result_risk_is": "Your risk tolerance level is",
+    "knowledge_test.label.page_title": "Crypto Knowledge",
+    "knowledge_test.label.subpage_title": "Crypto knowledge \\nAssessment",
+    "knowledge_test.label.desc": "You need to pass the test to ensure you fully understand about the potential risk of cryptocurrency. You will not be able to start trading if you do not complete the test.",
+    "knowledge_test.label.estimate_time": "( The test will take around 5 - 10 minutes )",
+    "knowledge_test.label.question_nav": "Question %@ of %@",
+    "knowledge_test.label.success_title": "Congratulations! \\nYou passed the test",
+    "knowledge_test.label.success_desc": "You have passed Crypto Knowledge test. You can now start trading!"
 }

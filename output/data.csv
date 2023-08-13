@@ -247,42 +247,59 @@ Work Info,label,income_section_title,Your Income Per Month,Your Income Per Month
 Work Info,placeholder,income,Select a Range of Your Income,Select a Range of Your Income
 Work Info,label,phone_number,Phone Number,Phone Number
 Work Info,placeholder,phone_number,Please input Phone Number,Please input Phone Number
-Additional Info,label,page_title,Additional Info,
-Additional Info,label,country_income_source,Country of Source of Income,
-Additional Info,placeholder,country_income_source,Please select Country of Source of Income,
-Additional Info,label,income_source,Source of Income,
-Additional Info,label,income_source_remark,(You may select more than one),
-Additional Info,placeholder,please_specify,please specify,
-Additional Info,label,net_asset_value,Estimated Net Asset Value,
-Additional Info,label,purpose_of_invest,Purpose of Investment,
-Additional Info,label,ultimate_beneficiary,Ultimate Beneficiary,
-Additional Info,option,myself,Myself,
-Additional Info,option,someone_else,Someone else,
-Additional Info,label,ub_fname,First Name,
-Additional Info,placeholder,ub_fname,Please input First Name,
-Additional Info,label,ub_lname,Last Name,
-Additional Info,placeholder,ub_lname,Please input Last Name,
-Additional Info,label,ub_relation,Relationship,
-Additional Info,placeholder,ub_relation,Please select Relationship,
-Recheck Info,label,page_title,Are These Details Correct?,
-Recheck Info,label,subpage_title,Your Personal Info,
-Recheck Info,label,fullname_th,Full Name Thai,
-Recheck Info,label,fullname_en,Full Name Eng,
-Recheck Info,label,date_of_birth,Date of Birth,
-Recheck Info,label,idcard,ID Card Number,
-Recheck Info,label,email,Email Address,
-Recheck Info,label,phone_number,Phone Number,
-Recheck Info,label,idcard_address,Address in ID Card,
-Recheck Info,label,current_address,Current Address,
-Recheck Info,label,education_level,Education Level,
-Recheck Info,label,employment_status,Employment Status,
-Recheck Info,label,occupation,Occupation,
-Recheck Info,label,company_name,Company Name,
-Recheck Info,label,work_address,Work Address,
-Recheck Info,label,income_per_month,Income Per Month,
-Recheck Info,label,country_income_source,Country of Source of Income,
-Recheck Info,label,source_of_income,Source of Income,
-Recheck Info,label,net_asset_value,Estimated Net Asset Value,
-Recheck Info,label,purpose_of_invest,Purpose of Investment,
-Recheck Info,label,ultimate_beneficiary,Ultimate Beneficiary,
-Recheck Info,label,checkbox,ข้าพเจ้าขอรับรองว่าข้อมูลและเอกสารที่ได้ส่งให้แก่ทาง cryptoplat ถูกต้องและเป็นความจริง และข้าพเจ้าตกลงให้ ความยินยอมรวมถึงให้การอนุญาตตามเงื่อนไขที่กำหนดทั้งหมด,
+Additional Info,label,page_title,Additional Info,Additional Info
+Additional Info,label,country_income_source,Country of Source of Income,Country of Source of Income
+Additional Info,placeholder,country_income_source,Please select Country of Source of Income,Please select Country of Source of Income
+Additional Info,label,income_source,Source of Income,Source of Income
+Additional Info,label,income_source_remark,(You may select more than one),(You may select more than one)
+Additional Info,placeholder,please_specify,please specify,please specify
+Additional Info,label,net_asset_value,Estimated Net Asset Value,Estimated Net Asset Value
+Additional Info,label,purpose_of_invest,Purpose of Investment,Purpose of Investment
+Additional Info,label,ultimate_beneficiary,Ultimate Beneficiary,Ultimate Beneficiary
+Additional Info,option,myself,Myself,Myself
+Additional Info,option,someone_else,Someone else,Someone else
+Additional Info,label,ub_fname,First Name,First Name
+Additional Info,placeholder,ub_fname,Please input First Name,Please input First Name
+Additional Info,label,ub_lname,Last Name,Last Name
+Additional Info,placeholder,ub_lname,Please input Last Name,Please input Last Name
+Additional Info,label,ub_relation,Relationship,Relationship
+Additional Info,placeholder,ub_relation,Please select Relationship,Please select Relationship
+Recheck Info,label,page_title,Are These Details Correct?,Are These Details Correct?
+Recheck Info,label,subpage_title,Your Personal Info,Your Personal Info
+Recheck Info,label,fullname_th,Full Name Thai,Full Name Thai
+Recheck Info,label,fullname_en,Full Name Eng,Full Name Eng
+Recheck Info,label,date_of_birth,Date of Birth,Date of Birth
+Recheck Info,label,idcard,ID Card Number,ID Card Number
+Recheck Info,label,email,Email Address,Email Address
+Recheck Info,label,phone_number,Phone Number,Phone Number
+Recheck Info,label,idcard_address,Address in ID Card,Address in ID Card
+Recheck Info,label,current_address,Current Address,Current Address
+Recheck Info,label,education_level,Education Level,Education Level
+Recheck Info,label,employment_status,Employment Status,Employment Status
+Recheck Info,label,occupation,Occupation,Occupation
+Recheck Info,label,company_name,Company Name,Company Name
+Recheck Info,label,work_address,Work Address,Work Address
+Recheck Info,label,income_per_month,Income Per Month,Income Per Month
+Recheck Info,label,country_income_source,Country of Source of Income,Country of Source of Income
+Recheck Info,label,source_of_income,Source of Income,Source of Income
+Recheck Info,label,net_asset_value,Estimated Net Asset Value,Estimated Net Asset Value
+Recheck Info,label,purpose_of_invest,Purpose of Investment,Purpose of Investment
+Recheck Info,label,ultimate_beneficiary,Ultimate Beneficiary,Ultimate Beneficiary
+Recheck Info,label,checkbox,I hereby certify that the information and documents submitted to cryptoplat are correct and true. and I agree Consent includes giving permission to all required conditions.,ข้าพเจ้าขอรับรองว่าข้อมูลและเอกสารที่ได้ส่งให้แก่ทาง cryptoplat ถูกต้องและเป็นความจริง และข้าพเจ้าตกลงให้ ความยินยอมรวมถึงให้การอนุญาตตามเงื่อนไขที่กำหนดทั้งหมด
+Registered Success,label,subpage_title,You have successfully\nverified your identity.,You have successfully\nverified your identity.
+Registered Success,label,desc,The result will be sent to your \nregistered email within 24 hours.,The result will be sent to your \nregistered email within 24 hours.
+Registered Success,label,next_step,Next step:,Next step:
+Registered Success,label,take_suite_test,Take the investment suitability test.,Take the investment suitability test.
+Suite Test,label,page_title,Suitability Test,Suitability Test
+Suite Test,label,desc,"Next, please complete suitability test. \nYou will not be able to start trading if \nyou do not complete the test.","Next, please complete suitability test. \nYou will not be able to start trading if \nyou do not complete the test."
+Suite Test,label,estimate_time,( The test will take around 5 minutes ),( The test will take around 5 minutes )
+General,button,start,Start,Start
+Suite Test,label,result_subpage_title,Your risk tolerance \nassessment result,Your risk tolerance \nassessment result
+Suite Test,label,result_risk_is,Your risk tolerance level is,Your risk tolerance level is
+Knowledge Test,label,page_title,Crypto Knowledge,Crypto Knowledge
+Knowledge Test,label,subpage_title,Crypto knowledge \nAssessment,Crypto knowledge \nAssessment
+Knowledge Test,label,desc,You need to pass the test to ensure you fully understand about the potential risk of cryptocurrency. You will not be able to start trading if you do not complete the test.,You need to pass the test to ensure you fully understand about the potential risk of cryptocurrency. You will not be able to start trading if you do not complete the test.
+Knowledge Test,label,estimate_time,( The test will take around 5 - 10 minutes ),( The test will take around 5 - 10 minutes )
+Knowledge Test,label,question_nav,Question %@ of %@,Question %@ of %@
+Knowledge Test,label,success_title,Congratulations! \nYou passed the test,Congratulations! \nYou passed the test
+Knowledge Test,label,success_desc,You have passed Crypto Knowledge test. You can now start trading!,You have passed Crypto Knowledge test. You can now start trading!
