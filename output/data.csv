@@ -110,34 +110,179 @@ Work Permit,label,file_size,File size: %@ MB,File size: %@ MB
 Work Permit,label,important_non,Important \n• Passport must have at least 6 months remaining validity.,Important \n• Passport must have at least 6 months remaining validity.
 Work Permit,label,age_warning_long,Your age is below 20. Please recheck your Date of birth as the law require at least age of 20 to be able to trade.,Your age is below 20. Please recheck your Date of birth as the law require at least age of 20 to be able to trade.
 Work Permit,label,age_warning_short,Your age is below 20.,Your age is below 20.
-eKYC Infomation,label,page_title,Personal Information,
-eKYC Infomation,button,next,Next,
-eKYC Infomation,label,subpage_title,Please make sure the info matches your ID card,
-eKYC Infomation,label,title_name_th,Title Name (Thai),
-eKYC Infomation,placeholder,title_name_th,Please select title name,
-eKYC Infomation,label,fname_th,First Name (Thai),
-eKYC Infomation,placeholder,fname_th,Please select firstname,
-eKYC Infomation,label,mname_th,Middle Name (Thai),
-eKYC Infomation,placeholder,mname_th,Please select middle name,
-eKYC Infomation,label,lname_th,Last Name (Thai),
-eKYC Infomation,placeholder,lname_th,Please select last name,
-eKYC Infomation,label,title_name_en,Title Name (Eng),
-eKYC Infomation,placeholder,title_name_en,Please select title name,
-eKYC Infomation,label,fname_en,First Name (Eng),
-eKYC Infomation,placeholder,fname_en,Please select firstname,
-eKYC Infomation,label,mname_en,Middle Name (Eng),
-eKYC Infomation,placeholder,mname_en,Please select middle name,
-eKYC Infomation,label,lname_en,Last Name (Eng),
-eKYC Infomation,placeholder,lname_en,Please select last name,
-eKYC Infomation,label,date_of_birth,Date of Birth,
-eKYC Infomation,placeholder,date_of_birth,Please select date of birth,
-eKYC Infomation,label,idcard,ID Card Number,
-eKYC Infomation,placeholder,idcard,Please input ID Card Number,
-eKYC Infomation,label,laser_code,Laser Code,
-eKYC Infomation,placeholder,laser_code,Please input laser code,
-eKYC Infomation,label,date_of_issue,Date of Issue,
-eKYC Infomation,placeholder,date_of_issue,Please input Date of Issue,
-eKYC Infomation,label,date_of_issue,Date of Expire,
-eKYC Infomation,placeholder,date_of_issue,Please input Date of Expire,
+eKYC Infomation,label,page_title,Personal Information,Personal Information
+eKYC Infomation,button,next,Next,Next
+eKYC Infomation,label,subpage_title,Please make sure the info matches your ID card,Please make sure the info matches your ID card
+eKYC Infomation,label,title_name_th,Title Name (Thai),Title Name (Thai)
+eKYC Infomation,placeholder,title_name_th,Please select title name,Please select title name
+eKYC Infomation,label,fname_th,First Name (Thai),First Name (Thai)
+eKYC Infomation,placeholder,fname_th,Please select firstname,Please select firstname
+eKYC Infomation,label,mname_th,Middle Name (Thai),Middle Name (Thai)
+eKYC Infomation,placeholder,mname_th,Please select middle name,Please select middle name
+eKYC Infomation,label,lname_th,Last Name (Thai),Last Name (Thai)
+eKYC Infomation,placeholder,lname_th,Please select last name,Please select last name
+eKYC Infomation,label,title_name_en,Title Name (Eng),Title Name (Eng)
+eKYC Infomation,placeholder,title_name_en,Please select title name,Please select title name
+eKYC Infomation,label,fname_en,First Name (Eng),First Name (Eng)
+eKYC Infomation,placeholder,fname_en,Please select firstname,Please select firstname
+eKYC Infomation,label,mname_en,Middle Name (Eng),Middle Name (Eng)
+eKYC Infomation,placeholder,mname_en,Please select middle name,Please select middle name
+eKYC Infomation,label,lname_en,Last Name (Eng),Last Name (Eng)
+eKYC Infomation,placeholder,lname_en,Please select last name,Please select last name
+eKYC Infomation,label,date_of_birth,Date of Birth,Date of Birth
+eKYC Infomation,placeholder,date_of_birth,Please select date of birth,Please select date of birth
+eKYC Infomation,label,idcard,ID Card Number,ID Card Number
+eKYC Infomation,placeholder,idcard,Please input ID Card Number,Please input ID Card Number
+eKYC Infomation,label,laser_code,Laser Code,Laser Code
+eKYC Infomation,placeholder,laser_code,Please input laser code,Please input laser code
+eKYC Infomation,label,date_of_issue,Date of Issue,Date of Issue
+eKYC Infomation,placeholder,date_of_issue,Please input Date of Issue,Please input Date of Issue
+eKYC Infomation,label,date_of_issue,Date of Expire,Date of Expire
+eKYC Infomation,placeholder,date_of_issue,Please input Date of Expire,Please input Date of Expire
 eKYC Infomation,label,age_warning_long,Your age is below 20. Please recheck your Date of birth as the law require at least age of 20 to be able to trade.,Your age is below 20. Please recheck your Date of birth as the law require at least age of 20 to be able to trade.
 eKYC Infomation,label,age_warning_short,Your age is below 20.,Your age is below 20.
+eKYC Infomation,label,fname_fr,First Name,First Name
+eKYC Infomation,placeholder,fname_fr,Please select firstname,Please select firstname
+eKYC Infomation,label,mname_fr,Middle Name,Middle Name
+eKYC Infomation,placeholder,mname_fr,Please select middle name,Please select middle name
+eKYC Infomation,label,lname_fr,Last Name,Last Name
+eKYC Infomation,placeholder,lname_fr,Please select last name,Please select last name
+eKYC Infomation,label,subpage_passport_title,Please make sure the info matches your passport,Please make sure the info matches your passport
+eKYC Infomation,label,passport,Passport Number,Passport Number
+eKYC Infomation,placeholder,passport,Please input Passport Number,Please input Passport Number
+eKYC Infomation,label,nationality,Nationality,Nationality
+eKYC Infomation,placeholder,nationality,Please select Nationality,Please select Nationality
+NDID,label,page_title,Identity Verification via NDID,Identity Verification via NDID
+NDID,label,subpage_title,Terms and Conditions,Terms and Conditions
+NDID,button,scroll_to_bottom,Scroll down to the bottom,Scroll down to the bottom
+NDID,label,accept_check,I accept the Terms & Conditions of NDID,I accept the Terms & Conditions of NDID
+NDID,button,cancel,Cancel,Cancel
+NDID,button,submit,Submit,Submit
+NDID,label,bank_subpage_title,Please choose Identity Provider that you have already registered and have a mobile application ready for identity authentication.,Please choose Identity Provider that you have already registered and have a mobile application ready for identity authentication.
+NDID,label,registered_section_title,The identity providers that you have already register and ready to use.,The identity providers that you have already register and ready to use.
+NDID,label,other_section_title,Choose the other identity providers.,Choose the other identity providers.
+NDID,label,bank_confirm_title,Are you sure you want to choose this Identity Provider?,Are you sure you want to choose this Identity Provider?
+NDID,label,bank_confirm_desc,"By clicking confirm, you will be redirected to this provider’s application","By clicking confirm, you will be redirected to this provider’s application"
+General,button,cancel,Cancel,Cancel
+General,button,confirm,Confirm,Confirm
+NDID,label,deny_title,Are you sure you want to deny NDID terms & conditions?,Are you sure you want to deny NDID terms & conditions?
+NDID,label,deny_desc,"Should you not accept the terms & conditions, you would not be able to continue your identity verification process.","Should you not accept the terms & conditions, you would not be able to continue your identity verification process."
+NDID,label,deny_reason,Please tell us the reason,Please tell us the reason
+NDID,placeholder,deny_reason,Your reason,Your reason
+NDID Waiting,label,page_title,Verifying Identity,Verifying Identity
+NDID Waiting,label,subpage_title,Confirm at the mobile application of the identity provider you chose,Confirm at the mobile application of the identity provider you chose
+NDID Waiting,label,subpage_desc,You are verifying your identity for the purpose of Cryptoplat and requiring to submit information from [%@],You are verifying your identity for the purpose of Cryptoplat and requiring to submit information from [%@]
+NDID Waiting,label,tx_ref,(Transaction ref: %@).,(Transaction ref: %@).
+NDID Waiting,label,verify_desc,Please Verify your identification at %@ Mobile application within 60 minutes and return to continue your transaction here,Please Verify your identification at %@ Mobile application within 60 minutes and return to continue your transaction here
+NDID Waiting,label,timeout_subpage_title,"Sorry, you didn’t finish the \nprocess within the time limit","Sorry, you didn’t finish the \nprocess within the time limit"
+NDID Waiting,label,timeout_subpage_desc,Please go back and redo the \nprocess to continue,Please go back and redo the \nprocess to continue
+General,button,back,Back,Back
+NDID Info,label,page_title,Personal Information,Personal Information
+NDID Info,label,subpage_title,Please make sure the info matches your ID card,Please make sure the info matches your ID card
+NDID Info,label,title_name_th,Title Name (Thai),Title Name (Thai)
+NDID Info,placeholder,title_name_th,Please select title name,Please select title name
+NDID Info,label,fname_th,First Name (Thai),First Name (Thai)
+NDID Info,placeholder,fname_th,Please select firstname,Please select firstname
+NDID Info,label,mname_th,Middle Name (Thai),Middle Name (Thai)
+NDID Info,placeholder,mname_th,Please select middle name,Please select middle name
+NDID Info,label,lname_th,Last Name (Thai),Last Name (Thai)
+NDID Info,placeholder,lname_th,Please select last name,Please select last name
+NDID Info,label,title_name_en,Title Name (Eng),Title Name (Eng)
+NDID Info,placeholder,title_name_en,Please select title name,Please select title name
+NDID Info,label,fname_en,First Name (Eng),First Name (Eng)
+NDID Info,placeholder,fname_en,Please select firstname,Please select firstname
+NDID Info,label,mname_en,Middle Name (Eng),Middle Name (Eng)
+NDID Info,placeholder,mname_en,Please select middle name,Please select middle name
+NDID Info,label,lname_en,Last Name (Eng),Last Name (Eng)
+NDID Info,placeholder,lname_en,Please select last name,Please select last name
+NDID Info,label,date_of_birth,Date of Birth,Date of Birth
+NDID Info,placeholder,date_of_birth,Please select date of birth,Please select date of birth
+NDID Info,label,idcard,ID Card Number,ID Card Number
+NDID Info,placeholder,idcard,Please input ID Card Number,Please input ID Card Number
+NDID Info,label,laser_code,Laser Code,Laser Code
+NDID Info,placeholder,laser_code,Please input laser code,Please input laser code
+NDID Info,label,date_of_issue,Date of Issue,Date of Issue
+NDID Info,placeholder,date_of_issue,Please input Date of Issue,Please input Date of Issue
+NDID Info,label,date_of_issue,Date of Expire,Date of Expire
+NDID Info,placeholder,date_of_issue,Please input Date of Expire,Please input Date of Expire
+Address Info,label,page_title,Personal Information,Personal Information
+Address Info,label,idcard_section_title,Address in ID card,Address in ID card
+Address Info,label,address_line,"Address (House No., Building, Street)","Address (House No., Building, Street)"
+Address Info,placeholder,address_line,"Please input Address (House No., Building, Street)","Please input Address (House No., Building, Street)"
+Address Info,label,province,Province,Province
+Address Info,placeholder,province,Please select Province,Please select Province
+Address Info,label,district,District,District
+Address Info,placeholder,district,Please select District,Please select District
+Address Info,label,sub_district,Sub District,Sub District
+Address Info,placeholder,sub_district,Please select Sub District,Please select Sub District
+Address Info,label,postal_code,Postal code,Postal code
+Address Info,placeholder,postal_code,Please input Address Postal code,Please input Address Postal code
+Address Info,label,current_address_section_title,Current Address,Current Address
+Address Info,label,diff_from_id_card,Different from ID card,Different from ID card
+Address Info,label,home_country_section_title,Address in vour home country,Address in vour home country
+Address Info,label,city,City,City
+Address Info,placeholder,city,Your City,Your City
+Address Info,label,state,State or Province,State or Province
+Address Info,placeholder,state,Your State or Province,Your State or Province
+Address Info,label,zipcode,Zip Code or Postal Code,Zip Code or Postal Code
+Address Info,placeholder,zipcode,Your Zip Code or Postal Code,Your Zip Code or Postal Code
+Address Info,label,country,Country,Country
+Address Info,placeholder,country,Select your Country,Select your Country
+Address Info,label,thai_address_section_title,Address in Thailand,Address in Thailand
+Address Info,label,work_in_thai,work in Thailand and have the address,work in Thailand and have the address
+Work Info,label,page_title,Personal Information,Personal Information
+Work Info,label,education_section_title,Education,Education
+Work Info,label,education_level,Education Level,Education Level
+Work Info,placeholder,education_level,Select Education Level,Select Education Level
+Work Info,label,occupation_section_title,Occupation Details,Occupation Details
+Work Info,label,employment_status,Your Employment Status,Your Employment Status
+Work Info,placeholder,employment_status,Select Employment Status,Select Employment Status
+Work Info,label,occupation,Your Occupation,Your Occupation
+Work Info,placeholder,occupation,Select your occupation,Select your occupation
+Work Info,label,company_name,Company Name,Company Name
+Work Info,placeholder,company_name,Company Name,Company Name
+Work Info,label,company_country,Company Country,Company Country
+Work Info,placeholder,company_country,Select company country,Select company country
+Work Info,label,income_section_title,Your Income Per Month,Your Income Per Month
+Work Info,placeholder,income,Select a Range of Your Income,Select a Range of Your Income
+Work Info,label,phone_number,Phone Number,Phone Number
+Work Info,placeholder,phone_number,Please input Phone Number,Please input Phone Number
+Additional Info,label,page_title,Additional Info,
+Additional Info,label,country_income_source,Country of Source of Income,
+Additional Info,placeholder,country_income_source,Please select Country of Source of Income,
+Additional Info,label,income_source,Source of Income,
+Additional Info,label,income_source_remark,(You may select more than one),
+Additional Info,placeholder,please_specify,please specify,
+Additional Info,label,net_asset_value,Estimated Net Asset Value,
+Additional Info,label,purpose_of_invest,Purpose of Investment,
+Additional Info,label,ultimate_beneficiary,Ultimate Beneficiary,
+Additional Info,option,myself,Myself,
+Additional Info,option,someone_else,Someone else,
+Additional Info,label,ub_fname,First Name,
+Additional Info,placeholder,ub_fname,Please input First Name,
+Additional Info,label,ub_lname,Last Name,
+Additional Info,placeholder,ub_lname,Please input Last Name,
+Additional Info,label,ub_relation,Relationship,
+Additional Info,placeholder,ub_relation,Please select Relationship,
+Recheck Info,label,page_title,Are These Details Correct?,
+Recheck Info,label,subpage_title,Your Personal Info,
+Recheck Info,label,fullname_th,Full Name Thai,
+Recheck Info,label,fullname_en,Full Name Eng,
+Recheck Info,label,date_of_birth,Date of Birth,
+Recheck Info,label,idcard,ID Card Number,
+Recheck Info,label,email,Email Address,
+Recheck Info,label,phone_number,Phone Number,
+Recheck Info,label,idcard_address,Address in ID Card,
+Recheck Info,label,current_address,Current Address,
+Recheck Info,label,education_level,Education Level,
+Recheck Info,label,employment_status,Employment Status,
+Recheck Info,label,occupation,Occupation,
+Recheck Info,label,company_name,Company Name,
+Recheck Info,label,work_address,Work Address,
+Recheck Info,label,income_per_month,Income Per Month,
+Recheck Info,label,country_income_source,Country of Source of Income,
+Recheck Info,label,source_of_income,Source of Income,
+Recheck Info,label,net_asset_value,Estimated Net Asset Value,
+Recheck Info,label,purpose_of_invest,Purpose of Investment,
+Recheck Info,label,ultimate_beneficiary,Ultimate Beneficiary,
+Recheck Info,label,checkbox,ข้าพเจ้าขอรับรองว่าข้อมูลและเอกสารที่ได้ส่งให้แก่ทาง cryptoplat ถูกต้องและเป็นความจริง และข้าพเจ้าตกลงให้ ความยินยอมรวมถึงให้การอนุญาตตามเงื่อนไขที่กำหนดทั้งหมด,
