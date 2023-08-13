@@ -12,3 +12,39 @@ Auth,label,agree_with_term_and_privacy,I agree with this terms & conditions  and
 Auth,label,receive_marketing_news,"I would like to receive marketing news, promotions, and any other information from Crypto and its affiliates.","I would like to receive marketing news, promotions, and any other information from Crypto and its affiliates."
 General,button,next,Next,ต่อไป
 General,button,confirm,Confirm,ยืนยัน
+Create Account,label,email_field,Email,อีเมล์
+Create Account,placeholder,email_field,Email,อีเมล์
+Create Account,label,mobile_no_field,Mobile Number,เบอร์โทรศัพท์
+Create Account,label,agree_not_us_check,I am not a U.S. citizen and considered a ‘non-resident for tax purposes’.,I am not a U.S. citizen and considered a ‘non-resident for tax purposes’.
+Create Account,label,agree_term_check,I am not a U.S. citizen and considered a ‘non-resident for tax purposes’.,I am not a U.S. citizen and considered a ‘non-resident for tax purposes’.
+Create Account,label,agree_news_check,"I would like to receive marketing news, promotions, and any other information from Crypto and its affiliates.","I would like to receive marketing news, promotions, and any other information from Crypto and its affiliates."
+Create Account,label,page_title,Create Account,Create Account
+User Verification,label,page_title,User verification,User verification
+User Verification,label,enter_email_otp_desc,Please enter the 6-digit code sent to,Please enter the 6-digit code sent to
+User Verification,button,resend_email,Resend email,Resend email
+User Verification,label,timer,( in %@ seconds ),( ภายใน %@ วินาที )
+User Verification,label,enter_phone_otp_desc,Please enter the 6-digit code sent to,Please enter the 6-digit code sent to
+User Verification,label,not_your_info,Not your Information?,Not your Information?
+User Verification,label,change_info,Change Information,Change Information
+User Verification,button,confirm,Confirm,Confirm
+Create Password,label,page_title,Create Password,Create Password
+Create Password,label,password_title,Password,Password
+Create Password,placeholder,password_input,Password,Password
+Create Password,label,confirm_password_title,Confirm Password,Confirm Password
+Create Password,placeholder,confirm_password_input,Confirm Password,Confirm Password
+Create Password,label,password_require_title,Password Require :,Password Require :
+Create Password,label,password_require_8_char,• Use at least 8 characters,• Use at least 8 characters
+Create Password,label,password_require_low_upper,• Use at least 1 lowercase and 1 uppercase character,• Use at least 1 lowercase and 1 uppercase character
+Create Password,label,password_require_1_number,• Use at least 1 number,• Use at least 1 number
+Create Password,label,password_require_special,• Use at least 1 special character,• Use at least 1 special character
+Create Password,button,next,Next,Next
+Set Pin,label,page_title,Set Pin Number,Set Pin Number
+Set Pin,label,page_desc,Please set up your 6 digits PIN using for log in and confirm transaction,Please set up your 6 digits PIN using for log in and confirm transaction
+Set Pin,label,pin_input_title,Please set up your new PIN,Please set up your new PIN
+Set Pin,button,reset,Reset,Reset
+Set Pin,button,next,Next,Next
+Set Pin,label,page_title,,
+Set Pin,label,,,
+Set Pin,label,,,
+Set Pin,label,,,
+Set Pin,label,,,
