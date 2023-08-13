@@ -10,6 +10,16 @@ Auth,placeholder,mobile_no_field,Mobile Number,เบอร์โทรศัพ
 Auth,label,not_us_citizen,I am not a U.S. citizen and considered a ‘non-resident for tax purposes’.,I am not a U.S. citizen and considered a ‘non-resident for tax purposes’.
 Auth,label,agree_with_term_and_privacy,I agree with this terms & conditions  and Privacy Policy / AML & CTPF Policy agreements.,I agree with this terms & conditions  and Privacy Policy / AML & CTPF Policy agreements.
 Auth,label,receive_marketing_news,"I would like to receive marketing news, promotions, and any other information from Crypto and its affiliates.","I would like to receive marketing news, promotions, and any other information from Crypto and its affiliates."
+Auth,label,password_field,Password,Password
+Auth,label,forgot_password,Forgot Password,Forgot Password
+Auth,button,login,Login,Login
+Auth,label,do_not_have_account_yet,Don’t have an account yet?,Don’t have an account yet?
+Auth,label,create_account,Create Account,Create Account
+Auth,label,page_title_forgot_password,Forgot Password,Forgot Password
+Auth,label,page_desc_forgot_password,Please enter your email and we will send you a link to reset your password.,Please enter your email and we will send you a link to reset your password.
+Auth,button,reset_my_password,Reset My Password,Reset My Password
+Auth,label,forgot_password_success_title,We just sent a password reset link to your email,We just sent a password reset link to your email
+Auth,label,forgot_password_success_desc,"To change your password, please press the link sent to","To change your password, please press the link sent to"
 General,button,next,Next,ต่อไป
 General,button,confirm,Confirm,ยืนยัน
 Create Account,label,email_field,Email,อีเมล์
@@ -38,13 +48,41 @@ Create Password,label,password_require_low_upper,• Use at least 1 lowercase an
 Create Password,label,password_require_1_number,• Use at least 1 number,• Use at least 1 number
 Create Password,label,password_require_special,• Use at least 1 special character,• Use at least 1 special character
 Create Password,button,next,Next,Next
-Set Pin,label,page_title,Set Pin Number,Set Pin Number
-Set Pin,label,page_desc,Please set up your 6 digits PIN using for log in and confirm transaction,Please set up your 6 digits PIN using for log in and confirm transaction
+Set Pin,label,page_set_pin_title,Set Pin Number,Set Pin Number
+Set Pin,label,page_set_pin_desc,Please set up your 6 digits PIN using for log in and confirm transaction,Please set up your 6 digits PIN using for log in and confirm transaction
 Set Pin,label,pin_input_title,Please set up your new PIN,Please set up your new PIN
 Set Pin,button,reset,Reset,Reset
 Set Pin,button,next,Next,Next
-Set Pin,label,page_title,,
-Set Pin,label,,,
-Set Pin,label,,,
-Set Pin,label,,,
-Set Pin,label,,,
+Set Pin,label,page_confirm_pin_title,Confirm Pin Number,Confirm Pin Number
+Set Pin,label,page_confirm_pin_desc,Please confirm your new PIN,Please confirm your new PIN
+Set Pin,label,face_id_title,Enable Face ID / Touch ID,Enable Face ID / Touch ID
+Set Pin,label,face_id_desc,Do you want to enable Face ID / Touch ID \nAuthentication?,Do you want to enable Face ID / Touch ID \nAuthentication?
+Set Pin,button,yes,Yes,ใช่
+Set Pin,button,no,No,ไม่
+Create Account,label,success_title,Account created\nsuccessfully!,Account created\nsuccessfully!
+Create Account,label,can_expore,You can now explore our site!,You can now explore our site!
+Create Account,label,next_step,Next step:,Next step:
+Create Account,label,can_trading,"To start trading, we need some \nfurther KYC verifications. ","To start trading, we need some \nfurther KYC verifications. "
+Create Account,label,the_test,( The test will take around 10 minutes ),( The test will take around 10 minutes )
+Create Account,button,verify,Verify Now,Verify Now
+Create Account,button,later,I’ll do it later,I’ll do it later
+eKYC Landing,label,subpage_title,"First, we need you to Follow these steps","First, we need you to Follow these steps"
+eKYC Landing,label,subpage_desc,To start trading please complete these steps.,To start trading please complete these steps.
+eKYC Landing,label,id_verify,Identity verification,Identity verification
+eKYC Landing,label,suite_test,Suitability Test,Suitability Test
+eKYC Landing,label,know_test,Knowledge Test,Knowledge Test
+eKYC Landing,button,start,Start,Start
+eKYC Landing,button,cancel,Cancel,Cancel
+eKYC Citizen Select,label,page_title,Identity verification,Identity verification
+eKYC Citizen Select,label,please,Please select your citizen type,Please select your citizen type
+eKYC Citizen Select,label,thai,Thai citizen,Thai citizen
+eKYC Citizen Select,label,foreigner,Foreigner,Foreigner
+eKYC Citizen Select,button,next,Next,Next
+eKYC Citizen Select,label,please_prepare_th,Please prepare the following :,Please prepare the following :
+eKYC Citizen Select,label,idcard_title_th,Your ID card,
+eKYC Citizen Select,label,idcard_desc_th,You'll be required to take a photo of your,
+eKYC Citizen Select,label,photo_title_th,ID card to identify your identity.,
+eKYC Citizen Select,label,photo_title_th,Photo-ready environment,
+eKYC Citizen Select,label,,Please prepare a space with enough light to ensure you can take a photo easily,
+eKYC Citizen Select,label,,Personal information,
+eKYC Citizen Select,label,,Your personal information and your work place information will be required.,
