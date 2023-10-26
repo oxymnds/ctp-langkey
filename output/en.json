@@ -297,5 +297,13 @@
     "knowledge_test.label.estimate_time": "( The test will take around 5 - 10 minutes )",
     "knowledge_test.label.question_nav": "Question %@ of %@",
     "knowledge_test.label.success_title": "Congratulations! \\nYou passed the test",
-    "knowledge_test.label.success_desc": "You have passed Crypto Knowledge test. You can now start trading!"
+    "knowledge_test.label.success_desc": "You have passed Crypto Knowledge test. You can now start trading!",
+    "settings.label.page_title": "Setting",
+    "settings.menu.security": "Security",
+    "settings.menu.change_password": "Change password",
+    "settings.menu.two_factor_auth": "2-Factor Authentication",
+    "settings.menu.device_manager": "Device Management",
+    "settings.menu.account_activity": "Account activity",
+    "settings.label.inactive": "Inactive",
+    "settings.label.active": "Active"
 }

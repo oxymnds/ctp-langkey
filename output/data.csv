@@ -303,3 +303,11 @@ Knowledge Test,label,estimate_time,( The test will take around 5 - 10 minutes ),
 Knowledge Test,label,question_nav,Question %@ of %@,Question %@ of %@
 Knowledge Test,label,success_title,Congratulations! \nYou passed the test,Congratulations! \nYou passed the test
 Knowledge Test,label,success_desc,You have passed Crypto Knowledge test. You can now start trading!,You have passed Crypto Knowledge test. You can now start trading!
+Settings,label,page_title,Setting,ตั้งค่า
+Settings,menu,security,Security,ความปลอดภัย
+Settings,menu,change_password,Change password,เปลี่ยนรหัสผ่าน
+Settings,menu,two_factor_auth,2-Factor Authentication,การยืนยันตัวตนแบบ 2 ชั้น
+Settings,menu,device_manager,Device Management,จัดการอุปกรณ์
+Settings,menu,account_activity,Account activity,กิจกรรมของผู้ใช้
+Settings,label,inactive,Inactive,ปิด
+Settings,label,active,Active,เปิดใช้งาน
