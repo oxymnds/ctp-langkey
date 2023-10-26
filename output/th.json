@@ -305,11 +305,11 @@
     "security.menu.account_activity": "กิจกรรมของผู้ใช้",
     "security.label.inactive": "ปิด",
     "security.label.active": "เปิดใช้งาน",
-    "settings.label.page_title": "Settings",
-    "settings.menu.language": "Language",
-    "settings.menu.notifications": "Notifications",
+    "settings.label.page_title": "การตั้งค่า",
+    "settings.menu.language": "ภาษา",
+    "settings.menu.notifications": "แจ้งเตือน",
     "settings.label.english_lang": "English",
     "settings.label.thai_lang": "ภาษาไทย",
-    "settings.menu.allow_marketing": "Allow marketing",
+    "settings.menu.allow_marketing": "ยินยอมให้การตลาด",
     "settings.label.allow_marketing_desc": "Cryptoplat may share usage data to 3rd party ad platforms to help improve our targeting and marketing quality."
 }

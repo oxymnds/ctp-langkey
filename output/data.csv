@@ -310,10 +310,10 @@ Security,menu,device_manager,Device Management,จัดการอุปกร
 Security,menu,account_activity,Account activity,กิจกรรมของผู้ใช้
 Security,label,inactive,Inactive,ปิด
 Security,label,active,Active,เปิดใช้งาน
-Settings,label,page_title,Settings,Settings
-Settings,menu,language,Language,Language
-Settings,menu,notifications,Notifications,Notifications
+Settings,label,page_title,Settings,การตั้งค่า
+Settings,menu,language,Language,ภาษา
+Settings,menu,notifications,Notifications,แจ้งเตือน
 Settings,label,english_lang,English,English
 Settings,label,thai_lang,ภาษาไทย,ภาษาไทย
-Settings,menu,allow_marketing,Allow marketing,Allow marketing
+Settings,menu,allow_marketing,Allow marketing,ยินยอมให้การตลาด
 Settings,label,allow_marketing_desc,Cryptoplat may share usage data to 3rd party ad platforms to help improve our targeting and marketing quality.,Cryptoplat may share usage data to 3rd party ad platforms to help improve our targeting and marketing quality.
