@@ -311,5 +311,5 @@
     "settings.label.english_lang": "English",
     "settings.label.thai_lang": "ภาษาไทย",
     "settings.menu.allow_marketing": "ยินยอมให้การตลาด",
-    "settings.label.allow_marketing_desc": "Cryptoplat may share usage data to 3rd party ad platforms to help improve our targeting and marketing quality."
+    "settings.label.allow_marketing_desc": "คริปโตแพลต อาจแชร์ข้อมูลการใช้งานไปยังแพลตฟอร์มโฆษณาของบุคคลที่สามเพื่อช่วยปรับปรุงการเล็งเป้าหมายและคุณภาพการตลาดของเรา"
 }
