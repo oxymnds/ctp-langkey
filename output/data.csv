@@ -323,3 +323,5 @@ Settings,menu,tx_risk_noti,Transaction Risk Notifications,การแจ้ง�
 Settings,label,email_push_noti,Email Push Notifications,การแจ้งเตือนผ่านอีเมล
 Settings,menu,marketing_campaigns,Marketing Campaigns,แคมเปญการตลาด
 Settings,label,marketing_campaigns_info,Margin call and forced liquidation notifications will be sent to you. These notifications cannot be turned off to ensure that you receive them in a timely manner.,คุณจะได้รับการแจ้งเตือนเกี่ยวกับการเรียกเพิ่มเงินประกันและการขายบังคับ การแจ้งเตือนเหล่านี้ไม่สามารถปิดได้เพื่อให้แน่ใจว่าคุณได้รับในเวลาที่เหมาะสม
+Settings,label,help_and_support_page_title,Help & Support,ช่วยเหลือ
+Dummy,label,test_and_test,Test & Test,ทดสอบและทดสอบ
