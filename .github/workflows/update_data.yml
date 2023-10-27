@@ -29,12 +29,12 @@ jobs:
       - name: Run generate script
         run: python generate.py
 
+      - name: Generate Swift Enums from JSON
+        run: python generate_swift_from_json.py output/en.json
+
       - name: Update resources
         uses: test-room-7/action-update-file@v1
         with:
-          file-path: |
-            output/data.csv
-            output/en.json
-            output/th.json
+          file-path: output/*
           commit-msg: Update resources
           github-token: ${{ secrets.GITHUB_TOKEN }}
