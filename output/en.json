@@ -311,5 +311,11 @@
     "settings.label.english_lang": "English",
     "settings.label.thai_lang": "ภาษาไทย",
     "settings.menu.allow_marketing": "Allow marketing",
-    "settings.label.allow_marketing_desc": "Cryptoplat may share usage data to 3rd party ad platforms to help improve our targeting and marketing quality."
+    "settings.label.allow_marketing_desc": "Cryptoplat may share usage data to 3rd party ad platforms to help improve our targeting and marketing quality.",
+    "settings.label.notification_page_title": "Notification Settings",
+    "settings.menu.operation_noti": "Operational Notifications",
+    "settings.menu.tx_risk_noti": "Transaction Risk Notifications",
+    "settings.label.email_push_noti": "Email Push Notifications",
+    "settings.menu.marketing_campaigns": "Marketing Campaigns",
+    "settings.label.marketing_campaigns_info": "Margin call and forced liquidation notifications will be sent to you. These notifications cannot be turned off to ensure that you receive them in a timely manner."
 }

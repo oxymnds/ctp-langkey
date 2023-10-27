@@ -317,3 +317,9 @@ Settings,label,english_lang,English,English
 Settings,label,thai_lang,ภาษาไทย,ภาษาไทย
 Settings,menu,allow_marketing,Allow marketing,ยินยอมให้การตลาด
 Settings,label,allow_marketing_desc,Cryptoplat may share usage data to 3rd party ad platforms to help improve our targeting and marketing quality.,คริปโตแพลต อาจแชร์ข้อมูลการใช้งานไปยังแพลตฟอร์มโฆษณาของบุคคลที่สามเพื่อช่วยปรับปรุงการเล็งเป้าหมายและคุณภาพการตลาดของเรา
+Settings,label,notification_page_title,Notification Settings,ตั้งค่าการแจ้งเตือน
+Settings,menu,operation_noti,Operational Notifications,การแจ้งเตือนการดำเนินการ
+Settings,menu,tx_risk_noti,Transaction Risk Notifications,การแจ้งเตือนเกี่ยวกับความเสี่ยงในการทำธุรกรรม
+Settings,label,email_push_noti,Email Push Notifications,การแจ้งเตือนผ่านอีเมล
+Settings,menu,marketing_campaigns,Marketing Campaigns,แคมเปญการตลาด
+Settings,label,marketing_campaigns_info,Margin call and forced liquidation notifications will be sent to you. These notifications cannot be turned off to ensure that you receive them in a timely manner.,คุณจะได้รับการแจ้งเตือนเกี่ยวกับการเรียกเพิ่มเงินประกันและการขายบังคับ การแจ้งเตือนเหล่านี้ไม่สามารถปิดได้เพื่อให้แน่ใจว่าคุณได้รับในเวลาที่เหมาะสม

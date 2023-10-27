@@ -311,5 +311,11 @@
     "settings.label.english_lang": "English",
     "settings.label.thai_lang": "ภาษาไทย",
     "settings.menu.allow_marketing": "ยินยอมให้การตลาด",
-    "settings.label.allow_marketing_desc": "คริปโตแพลต อาจแชร์ข้อมูลการใช้งานไปยังแพลตฟอร์มโฆษณาของบุคคลที่สามเพื่อช่วยปรับปรุงการเล็งเป้าหมายและคุณภาพการตลาดของเรา"
+    "settings.label.allow_marketing_desc": "คริปโตแพลต อาจแชร์ข้อมูลการใช้งานไปยังแพลตฟอร์มโฆษณาของบุคคลที่สามเพื่อช่วยปรับปรุงการเล็งเป้าหมายและคุณภาพการตลาดของเรา",
+    "settings.label.notification_page_title": "ตั้งค่าการแจ้งเตือน",
+    "settings.menu.operation_noti": "การแจ้งเตือนการดำเนินการ",
+    "settings.menu.tx_risk_noti": "การแจ้งเตือนเกี่ยวกับความเสี่ยงในการทำธุรกรรม",
+    "settings.label.email_push_noti": "การแจ้งเตือนผ่านอีเมล",
+    "settings.menu.marketing_campaigns": "แคมเปญการตลาด",
+    "settings.label.marketing_campaigns_info": "คุณจะได้รับการแจ้งเตือนเกี่ยวกับการเรียกเพิ่มเงินประกันและการขายบังคับ การแจ้งเตือนเหล่านี้ไม่สามารถปิดได้เพื่อให้แน่ใจว่าคุณได้รับในเวลาที่เหมาะสม"
 }
