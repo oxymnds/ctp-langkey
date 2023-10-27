@@ -1,0 +1,26 @@
+public extension LangKey {
+    enum RecheckInfo: String {
+        case labelpagetitle = "recheck_info.label.page_title"
+        case labelsubpagetitle = "recheck_info.label.subpage_title"
+        case labelfullnameth = "recheck_info.label.fullname_th"
+        case labelfullnameen = "recheck_info.label.fullname_en"
+        case labeldateofbirth = "recheck_info.label.date_of_birth"
+        case labelidcard = "recheck_info.label.idcard"
+        case labelemail = "recheck_info.label.email"
+        case labelphonenumber = "recheck_info.label.phone_number"
+        case labelidcardaddress = "recheck_info.label.idcard_address"
+        case labelcurrentaddress = "recheck_info.label.current_address"
+        case labeleducationlevel = "recheck_info.label.education_level"
+        case labelemploymentstatus = "recheck_info.label.employment_status"
+        case labeloccupation = "recheck_info.label.occupation"
+        case labelcompanyname = "recheck_info.label.company_name"
+        case labelworkaddress = "recheck_info.label.work_address"
+        case labelincomepermonth = "recheck_info.label.income_per_month"
+        case labelcountryincomesource = "recheck_info.label.country_income_source"
+        case labelsourceofincome = "recheck_info.label.source_of_income"
+        case labelnetassetvalue = "recheck_info.label.net_asset_value"
+        case labelpurposeofinvest = "recheck_info.label.purpose_of_invest"
+        case labelultimatebeneficiary = "recheck_info.label.ultimate_beneficiary"
+        case labelcheckbox = "recheck_info.label.checkbox"
+    }
+}
