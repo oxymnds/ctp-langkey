@@ -13,5 +13,6 @@ public extension LangKey {
         case labelemailpushnoti = "settings.label.email_push_noti"
         case menumarketingcampaigns = "settings.menu.marketing_campaigns"
         case labelmarketingcampaignsinfo = "settings.label.marketing_campaigns_info"
+        case labelhelpandsupportpagetitle = "settings.label.help_and_support_page_title"
     }
 }
