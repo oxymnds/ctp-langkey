@@ -317,5 +317,7 @@
     "settings.menu.tx_risk_noti": "Transaction Risk Notifications",
     "settings.label.email_push_noti": "Email Push Notifications",
     "settings.menu.marketing_campaigns": "Marketing Campaigns",
-    "settings.label.marketing_campaigns_info": "Margin call and forced liquidation notifications will be sent to you. These notifications cannot be turned off to ensure that you receive them in a timely manner."
+    "settings.label.marketing_campaigns_info": "Margin call and forced liquidation notifications will be sent to you. These notifications cannot be turned off to ensure that you receive them in a timely manner.",
+    "settings.label.help_and_support_page_title": "Help & Support",
+    "dummy.label.test_and_test": "Test & Test"
 }
