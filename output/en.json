@@ -302,6 +302,8 @@
     "knowledge_test.label.desc": "You need to pass the test to ensure you fully understand about the potential risk of cryptocurrency. You will not be able to start trading if you do not complete the test.",
     "knowledge_test.label.estimate_time": "( The test will take around 5 - 10 minutes )",
     "knowledge_test.label.question_nav": "Question %@ of %@",
+    "knowledge_test.label.explanation": "Explanation:",
+    "knowledge_test.label.command": "Please select the correct answer",
     "knowledge_test.label.success_title": "Congratulations! \\nYou passed the test",
     "knowledge_test.label.success_desc": "You have passed Crypto Knowledge test. You can now start trading!",
     "security.label.page_title": "Security",
