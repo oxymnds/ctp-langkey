@@ -4,7 +4,8 @@ import sys
 
 def camel_case_conversion(s):
     """Converts a string to CamelCase."""
-    return ''.join(word.capitalize() for word in s.split('_'))
+    words = s.split('_')
+    return words[0].lower() + ''.join(word.capitalize() for word in words[1:])
 
 def gather_keys(data, path=''):
     """Recursively gather all the keys and their paths from the JSON data."""
@@ -29,16 +30,17 @@ def generate_swift_enum(keys_structure):
 
     swift_files = {}
     for camel_case_key, keys in grouped_keys.items():
-        swift_code = f"public extension LangKey {{\n    enum {camel_case_key}: String {{\n"
+        enum_name = camel_case_key.capitalize()
+        swift_code = f"public extension LangKey {{\n    enum {enum_name}: String {{\n"
         for key in keys:
             components = key.split('.')
             if len(components) >= 3:
-                case_name = camel_case_conversion(f"{components[1]}_{components[2]}").lower()
+                case_name = camel_case_conversion(f"{components[1]}_{components[2]}")
             else:
-                case_name = camel_case_conversion(components[-1]).lower()
+                case_name = camel_case_conversion(components[-1])
             swift_code += f"        case {case_name} = \"{key}\"\n"
         swift_code += "    }\n}"
-        swift_files[f"LangKey+{camel_case_key}.swift"] = swift_code
+        swift_files[f"LangKey+{enum_name}.swift"] = swift_code
 
     return swift_files
 

@@ -1,9 +1,9 @@
 public extension LangKey {
     enum General: String {
-        case buttonnext = "general.button.next"
-        case buttonconfirm = "general.button.confirm"
-        case buttoncancel = "general.button.cancel"
-        case buttonback = "general.button.back"
-        case buttonstart = "general.button.start"
+        case buttonNext = "general.button.next"
+        case buttonConfirm = "general.button.confirm"
+        case buttonCancel = "general.button.cancel"
+        case buttonBack = "general.button.back"
+        case buttonStart = "general.button.start"
     }
 }
