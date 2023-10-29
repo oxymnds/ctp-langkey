@@ -177,6 +177,7 @@ NDID Waiting,label,verify_desc,Please Verify your identification at %@ Mobile ap
 NDID Waiting,label,timeout_subpage_title,"Sorry, you didn’t finish the \nprocess within the time limit","Sorry, you didn’t finish the \nprocess within the time limit"
 NDID Waiting,label,timeout_subpage_desc,Please go back and redo the \nprocess to continue,Please go back and redo the \nprocess to continue
 General,button,back,Back,Back
+General,button,edit,Edit,แก้ไข
 General,label,unknown_title,Unknown,ไม่สามารถระบุได้
 NDID Info,label,page_title,Personal Information,Personal Information
 NDID Info,label,subpage_title,Please make sure the info matches your ID card,Please make sure the info matches your ID card
@@ -298,6 +299,7 @@ Suite Test,label,page_title,Suitability Test,Suitability Test
 Suite Test,label,desc,"Next, please complete suitability test. \nYou will not be able to start trading if \nyou do not complete the test.","Next, please complete suitability test. \nYou will not be able to start trading if \nyou do not complete the test."
 Suite Test,label,estimate_time,( The test will take around 5 minutes ),( The test will take around 5 minutes )
 General,button,start,Start,Start
+General,button,please_wait,Please Wait...,Please Wait...
 Suite Test,label,result_subpage_title,Your risk tolerance \nassessment result,Your risk tolerance \nassessment result
 Suite Test,label,result_risk_is,Your risk tolerance level is,Your risk tolerance level is
 Knowledge Test,label,page_title,Crypto Knowledge,Crypto Knowledge
