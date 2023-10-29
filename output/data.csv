@@ -165,6 +165,7 @@ NDID,label,bank_confirm_title,Are you sure you want to choose this Identity Prov
 NDID,label,bank_confirm_desc,"By clicking confirm, you will be redirected to this provider’s application","By clicking confirm, you will be redirected to this provider’s application"
 General,button,cancel,Cancel,Cancel
 General,button,confirm,Confirm,Confirm
+General,button,done,Done,Done
 NDID,label,deny_title,Are you sure you want to deny NDID terms & conditions?,Are you sure you want to deny NDID terms & conditions?
 NDID,label,deny_desc,"Should you not accept the terms & conditions, you would not be able to continue your identity verification process.","Should you not accept the terms & conditions, you would not be able to continue your identity verification process."
 NDID,label,deny_reason,Please tell us the reason,Please tell us the reason

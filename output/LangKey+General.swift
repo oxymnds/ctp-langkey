@@ -3,6 +3,7 @@ public extension LangKey {
         case buttonNext = "general.button.next"
         case buttonConfirm = "general.button.confirm"
         case buttonCancel = "general.button.cancel"
+        case buttonDone = "general.button.done"
         case buttonBack = "general.button.back"
         case buttonEdit = "general.button.edit"
         case labelUnknownTitle = "general.label.unknown_title"

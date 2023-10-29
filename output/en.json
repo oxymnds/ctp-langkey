@@ -162,6 +162,7 @@
     "ndid.label.bank_confirm_title": "Are you sure you want to choose this Identity Provider?",
     "ndid.label.bank_confirm_desc": "By clicking confirm, you will be redirected to this provider’s application",
     "general.button.cancel": "Cancel",
+    "general.button.done": "Done",
     "ndid.label.deny_title": "Are you sure you want to deny NDID terms & conditions?",
     "ndid.label.deny_desc": "Should you not accept the terms & conditions, you would not be able to continue your identity verification process.",
     "ndid.label.deny_reason": "Please tell us the reason",
