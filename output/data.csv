@@ -287,6 +287,9 @@ Recheck Info,label,net_asset_value,Estimated Net Asset Value,Estimated Net Asset
 Recheck Info,label,purpose_of_invest,Purpose of Investment,Purpose of Investment
 Recheck Info,label,ultimate_beneficiary,Ultimate Beneficiary,Ultimate Beneficiary
 Recheck Info,label,checkbox,I hereby certify that the information and documents submitted to cryptoplat are correct and true. and I agree Consent includes giving permission to all required conditions.,ข้าพเจ้าขอรับรองว่าข้อมูลและเอกสารที่ได้ส่งให้แก่ทาง cryptoplat ถูกต้องและเป็นความจริง และข้าพเจ้าตกลงให้ ความยินยอมรวมถึงให้การอนุญาตตามเงื่อนไขที่กำหนดทั้งหมด
+Recheck Info,label,passport_no,Passport Number,Passport Number
+Recheck Info,label,address_home_country,Address in your home country,Address in your home country
+Recheck Info,label,address_in_thailand,Address in Thailand,Address in Thailand
 Registered Success,label,subpage_title,You have successfully\nverified your identity.,You have successfully\nverified your identity.
 Registered Success,label,desc,The result will be sent to your \nregistered email within 24 hours.,The result will be sent to your \nregistered email within 24 hours.
 Registered Success,label,next_step,Next step:,Next step:

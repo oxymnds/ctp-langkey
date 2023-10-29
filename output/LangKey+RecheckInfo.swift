@@ -22,5 +22,8 @@ public extension LangKey {
         case labelPurposeOfInvest = "recheck_info.label.purpose_of_invest"
         case labelUltimateBeneficiary = "recheck_info.label.ultimate_beneficiary"
         case labelCheckbox = "recheck_info.label.checkbox"
+        case labelPassportNo = "recheck_info.label.passport_no"
+        case labelAddressHomeCountry = "recheck_info.label.address_home_country"
+        case labelAddressInThailand = "recheck_info.label.address_in_thailand"
     }
 }
