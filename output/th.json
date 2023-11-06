@@ -328,7 +328,6 @@
     "settings.menu.marketing_campaigns": "แคมเปญการตลาด",
     "settings.label.marketing_campaigns_info": "คุณจะได้รับการแจ้งเตือนเกี่ยวกับการเรียกเพิ่มเงินประกันและการขายบังคับ การแจ้งเตือนเหล่านี้ไม่สามารถปิดได้เพื่อให้แน่ใจว่าคุณได้รับในเวลาที่เหมาะสม",
     "settings.label.help_and_support_page_title": "ช่วยเหลือ",
-    "dummy.label.test_and_test": "ทดสอบและทดสอบ",
     "ndid_error.label.401_title": "Your request has been rejected",
     "ndid_error.label.401_description": "คำขอถูกปฏิเสธ กรุณาติดต่อผู้ให้บริการที่เลือก",
     "ndid_error.label.30000_title": "The Identity Provider you choose is currently unavailable. Please retry or select another IdP.",

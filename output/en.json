@@ -328,7 +328,6 @@
     "settings.menu.marketing_campaigns": "Marketing Campaigns",
     "settings.label.marketing_campaigns_info": "Margin call and forced liquidation notifications will be sent to you. These notifications cannot be turned off to ensure that you receive them in a timely manner.",
     "settings.label.help_and_support_page_title": "Help & Support",
-    "dummy.label.test_and_test": "Test & Test",
     "ndid_error.label.401_title": "Response from IdP",
     "ndid_error.label.401_description": "Your request has been rejected",
     "ndid_error.label.30000_title": "Response from IdP",

@@ -333,7 +333,6 @@ Settings,label,email_push_noti,Email Push Notifications,การแจ้งเ
 Settings,menu,marketing_campaigns,Marketing Campaigns,แคมเปญการตลาด
 Settings,label,marketing_campaigns_info,Margin call and forced liquidation notifications will be sent to you. These notifications cannot be turned off to ensure that you receive them in a timely manner.,คุณจะได้รับการแจ้งเตือนเกี่ยวกับการเรียกเพิ่มเงินประกันและการขายบังคับ การแจ้งเตือนเหล่านี้ไม่สามารถปิดได้เพื่อให้แน่ใจว่าคุณได้รับในเวลาที่เหมาะสม
 Settings,label,help_and_support_page_title,Help & Support,ช่วยเหลือ
-Dummy,label,test_and_test,Test & Test,ทดสอบและทดสอบ
 NDID Error,label,401_title,Response from IdP,Your request has been rejected
 NDID Error,label,401_description,Your request has been rejected,คำขอถูกปฏิเสธ กรุณาติดต่อผู้ให้บริการที่เลือก
 NDID Error,label,30000_title,Response from IdP,The Identity Provider you choose is currently unavailable. Please retry or select another IdP.
