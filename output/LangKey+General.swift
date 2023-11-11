@@ -9,5 +9,7 @@ public extension LangKey {
         case labelUnknownTitle = "general.label.unknown_title"
         case buttonStart = "general.button.start"
         case buttonPleaseWait = "general.button.please_wait"
+        case buttonBuy = "general.button.buy"
+        case buttonSell = "general.button.sell"
     }
 }

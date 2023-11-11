@@ -367,5 +367,21 @@
     "ndid_error.label.40500_title": "Sorry, the request cannot be proceeded. Please contact Call center.",
     "ndid_error.label.40500_description": "ขออภัย ไม่สามารถดำเนินการต่อได้ กรุณาติดต่อ Call center",
     "ndid_error.label.1000_title": "Unknown error",
-    "ndid_error.label.1000_description": "ไม่สามารถดำเนินการได้ในขณะนี้ กรุณาลองใหม่อีกครั้งในภายหลัง"
+    "ndid_error.label.1000_description": "ไม่สามารถดำเนินการได้ในขณะนี้ กรุณาลองใหม่อีกครั้งในภายหลัง",
+    "general.button.buy": "ซื้อ",
+    "general.button.sell": "ขาย",
+    "dealer.label.main_page_title": NaN,
+    "dealer.label.withdraw_method": NaN,
+    "dealer.button.counter_service_title": NaN,
+    "dealer.button.counter_service_desc": NaN,
+    "dealer.button.on_wallet_title": NaN,
+    "dealer.button.on_wallet_desc": NaN,
+    "dealer.label.current_step": NaN,
+    "dealer.label.create_order_step": NaN,
+    "dealer.label.spend": NaN,
+    "dealer.label.balance_amount": NaN,
+    "dealer.label.receive": NaN,
+    "dealer.label.limit_per_visit": NaN,
+    "dealer.label.tx_fee_amount": NaN,
+    "NaN": NaN
 }

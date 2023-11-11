@@ -373,3 +373,20 @@ NDID Error,label,40500_title,Invalid RP,"Sorry, the request cannot be proceeded.
 NDID Error,label,40500_description,"Sorry, the request cannot be proceeded. Please contact Call center.",ขออภัย ไม่สามารถดำเนินการต่อได้ กรุณาติดต่อ Call center
 NDID Error,label,1000_title,Unknown error,Unknown error
 NDID Error,label,1000_description,We can't process your request at this time. Please try again later.,ไม่สามารถดำเนินการได้ในขณะนี้ กรุณาลองใหม่อีกครั้งในภายหลัง
+General,button,buy,Buy,ซื้อ
+General,button,sell,Sell,ขาย
+Dealer,label,main_page_title,Buy or Sell Crypto,
+Dealer,label,withdraw_method,Withdrawal Method,
+Dealer,button,counter_service_title,Receive at Counter Services,
+Dealer,button,counter_service_desc,You can receive money from the sell of cryptocurrencies at a convenient Counter Services branch in the next step.,
+Dealer,button,on_wallet_title,Receive on your wallet,
+Dealer,button,on_wallet_desc,"After you have successfully sold your cryptocurrencies, the money will be transferred to your balance THB wallet.",
+Dealer,label,current_step,Step %@ out of %@,
+Dealer,label,create_order_step,Create order %@,
+Dealer,label,spend,Spend,
+Dealer,label,balance_amount,Balance: %@,
+Dealer,label,receive,Receive,
+Dealer,label,limit_per_visit,*Limit %@ per visit,
+Dealer,label,tx_fee_amount,Transaction Fees %@,
+Dealer,label,,The actual exchange rate will be recalculated at the counter service.,
+Dealer,,,,

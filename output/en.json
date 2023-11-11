@@ -367,5 +367,21 @@
     "ndid_error.label.40500_title": "Invalid RP",
     "ndid_error.label.40500_description": "Sorry, the request cannot be proceeded. Please contact Call center.",
     "ndid_error.label.1000_title": "Unknown error",
-    "ndid_error.label.1000_description": "We can't process your request at this time. Please try again later."
+    "ndid_error.label.1000_description": "We can't process your request at this time. Please try again later.",
+    "general.button.buy": "Buy",
+    "general.button.sell": "Sell",
+    "dealer.label.main_page_title": "Buy or Sell Crypto",
+    "dealer.label.withdraw_method": "Withdrawal Method",
+    "dealer.button.counter_service_title": "Receive at Counter Services",
+    "dealer.button.counter_service_desc": "You can receive money from the sell of cryptocurrencies at a convenient Counter Services branch in the next step.",
+    "dealer.button.on_wallet_title": "Receive on your wallet",
+    "dealer.button.on_wallet_desc": "After you have successfully sold your cryptocurrencies, the money will be transferred to your balance THB wallet.",
+    "dealer.label.current_step": "Step %@ out of %@",
+    "dealer.label.create_order_step": "Create order %@",
+    "dealer.label.spend": "Spend",
+    "dealer.label.balance_amount": "Balance: %@",
+    "dealer.label.receive": "Receive",
+    "dealer.label.limit_per_visit": "*Limit %@ per visit",
+    "dealer.label.tx_fee_amount": "Transaction Fees %@",
+    "NaN": NaN
 }
