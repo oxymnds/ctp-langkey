@@ -375,18 +375,17 @@ NDID Error,label,1000_title,Unknown error,Unknown error
 NDID Error,label,1000_description,We can't process your request at this time. Please try again later.,ไม่สามารถดำเนินการได้ในขณะนี้ กรุณาลองใหม่อีกครั้งในภายหลัง
 General,button,buy,Buy,ซื้อ
 General,button,sell,Sell,ขาย
-Dealer,label,main_page_title,Buy or Sell Crypto,
-Dealer,label,withdraw_method,Withdrawal Method,
-Dealer,button,counter_service_title,Receive at Counter Services,
-Dealer,button,counter_service_desc,You can receive money from the sell of cryptocurrencies at a convenient Counter Services branch in the next step.,
-Dealer,button,on_wallet_title,Receive on your wallet,
-Dealer,button,on_wallet_desc,"After you have successfully sold your cryptocurrencies, the money will be transferred to your balance THB wallet.",
-Dealer,label,current_step,Step %@ out of %@,
-Dealer,label,create_order_step,Create order %@,
-Dealer,label,spend,Spend,
-Dealer,label,balance_amount,Balance: %@,
-Dealer,label,receive,Receive,
-Dealer,label,limit_per_visit,*Limit %@ per visit,
-Dealer,label,tx_fee_amount,Transaction Fees %@,
-Dealer,label,,The actual exchange rate will be recalculated at the counter service.,
-Dealer,,,,
+Dealer,label,main_page_title,Buy or Sell Crypto,Buy or Sell Crypto
+Dealer,label,withdraw_method,Withdrawal Method,Withdrawal Method
+Dealer,button,counter_service_title,Receive at Counter Services,Receive at Counter Services
+Dealer,button,counter_service_desc,You can receive money from the sell of cryptocurrencies at a convenient Counter Services branch in the next step.,You can receive money from the sell of cryptocurrencies at a convenient Counter Services branch in the next step.
+Dealer,button,on_wallet_title,Receive on your wallet,Receive on your wallet
+Dealer,button,on_wallet_desc,"After you have successfully sold your cryptocurrencies, the money will be transferred to your balance THB wallet.","After you have successfully sold your cryptocurrencies, the money will be transferred to your balance THB wallet."
+Dealer,label,current_step,Step %@ out of %@,Step %@ out of %@
+Dealer,label,create_order_step,Create order %@,Create order %@
+Dealer,label,spend,Spend,Spend
+Dealer,label,balance_amount,Balance: %@,Balance: %@
+Dealer,label,receive,Receive,Receive
+Dealer,label,limit_per_visit,*Limit %@ per visit,*Limit %@ per visit
+Dealer,label,tx_fee_amount,Transaction Fees %@,Transaction Fees %@
+Dealer,label,exchange_rate_will_change_remark,The actual exchange rate will be recalculated at the counter service.,The actual exchange rate will be recalculated at the counter service.

@@ -383,5 +383,5 @@
     "dealer.label.receive": "Receive",
     "dealer.label.limit_per_visit": "*Limit %@ per visit",
     "dealer.label.tx_fee_amount": "Transaction Fees %@",
-    "NaN": NaN
+    "dealer.label.exchange_rate_will_change_remark": "The actual exchange rate will be recalculated at the counter service."
 }

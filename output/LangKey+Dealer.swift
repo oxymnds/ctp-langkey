@@ -13,5 +13,6 @@ public extension LangKey {
         case labelReceive = "dealer.label.receive"
         case labelLimitPerVisit = "dealer.label.limit_per_visit"
         case labelTxFeeAmount = "dealer.label.tx_fee_amount"
+        case labelExchangeRateWillChangeRemark = "dealer.label.exchange_rate_will_change_remark"
     }
 }
