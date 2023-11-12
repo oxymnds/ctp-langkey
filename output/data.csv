@@ -389,3 +389,13 @@ Dealer,label,receive,Receive,Receive
 Dealer,label,limit_per_visit,*Limit %@ per visit,*Limit %@ per visit
 Dealer,label,tx_fee_amount,Transaction Fees %@,Transaction Fees %@
 Dealer,label,exchange_rate_will_change_remark,The actual exchange rate will be recalculated at the counter service.,The actual exchange rate will be recalculated at the counter service.
+Dealer,label,cash_balance_amount,Cash Balance: %@,Cash Balance: %@
+Dealer,label,confirm_title,Confirm,Confirm
+Dealer,label,rate,Rate,Rate
+Dealer,label,inverse_rate,Inverse Rate,Inverse Rate
+Dealer,label,tx_fee,Transaction Fees,Transaction Fees
+Dealer,label,you_will_receive,You will receive,You will receive
+Dealer,button,confirm_in_sec,Confirm (%@ seconds),Confirm (%@ seconds)
+Dealer,label,insufficient_balance,Your account has insufficient balance.\nPlease fund your account.,Your account has insufficient balance.\nPlease fund your account.
+Dealer,label,rate_has_changed,The current rate has been changed.\nPlease refresh the quote.,The current rate has been changed.\nPlease refresh the quote.
+Dealer,button,refresh_rate,Refresh Quote,Refresh Quote

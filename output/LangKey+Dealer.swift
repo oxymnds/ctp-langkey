@@ -14,5 +14,15 @@ public extension LangKey {
         case labelLimitPerVisit = "dealer.label.limit_per_visit"
         case labelTxFeeAmount = "dealer.label.tx_fee_amount"
         case labelExchangeRateWillChangeRemark = "dealer.label.exchange_rate_will_change_remark"
+        case labelCashBalanceAmount = "dealer.label.cash_balance_amount"
+        case labelConfirmTitle = "dealer.label.confirm_title"
+        case labelRate = "dealer.label.rate"
+        case labelInverseRate = "dealer.label.inverse_rate"
+        case labelTxFee = "dealer.label.tx_fee"
+        case labelYouWillReceive = "dealer.label.you_will_receive"
+        case buttonConfirmInSec = "dealer.button.confirm_in_sec"
+        case labelInsufficientBalance = "dealer.label.insufficient_balance"
+        case labelRateHasChanged = "dealer.label.rate_has_changed"
+        case buttonRefreshRate = "dealer.button.refresh_rate"
     }
 }
