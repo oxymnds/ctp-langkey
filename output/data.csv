@@ -1,8 +1,8 @@
 Flow,Element,Context,English,Thai
-Welcome,label,welcome_message,Welcome to\nCryptoplat !,ยินดีต้อนรับสู่\nCryptoplat !
+Welcome,label,welcome_message,Welcome to\\nCryptoplat !,ยินดีต้อนรับสู่\\nCryptoplat !
 Welcome,button,login,Log in,เข้าสู่ระบบ
 Welcome,button,create_account,Create Account,สร้างบัญชีใหม่
-Welcome,label,minimum_requirement,We support Safari version 11 and above.\nChrome version 53 and above for KYC.,รองรับ Safari เวอร์ชัน 11 หรือสูงกว่า\nChrome เวอร์ชัน 53 หรือสูงกว่า เพื่อการทำ KYC
+Welcome,label,minimum_requirement,We support Safari version 11 and above.\\nChrome version 53 and above for KYC.,รองรับ Safari เวอร์ชัน 11 หรือสูงกว่า\\nChrome เวอร์ชัน 53 หรือสูงกว่า เพื่อการทำ KYC
 Auth,label,email_field,Email,อีเมล์
 Auth,placeholder,email_field,Email,อีเมล์
 Auth,label,mobile_no_field,Mobile Number,เบอร์โทรศัพท์
@@ -57,13 +57,13 @@ Set Pin,button,next,Next,Next
 Set Pin,label,page_confirm_pin_title,Confirm Pin Number,Confirm Pin Number
 Set Pin,label,page_confirm_pin_desc,Please confirm your new PIN,Please confirm your new PIN
 Set Pin,label,face_id_title,Enable Face ID / Touch ID,Enable Face ID / Touch ID
-Set Pin,label,face_id_desc,Do you want to enable Face ID / Touch ID \nAuthentication?,Do you want to enable Face ID / Touch ID \nAuthentication?
+Set Pin,label,face_id_desc,Do you want to enable Face ID / Touch ID \\nAuthentication?,Do you want to enable Face ID / Touch ID \\nAuthentication?
 Set Pin,button,yes,Yes,ใช่
 Set Pin,button,no,No,ไม่
-Create Account,label,success_title,Account created\nsuccessfully!,Account created\nsuccessfully!
+Create Account,label,success_title,Account created\\nsuccessfully!,Account created\\nsuccessfully!
 Create Account,label,can_expore,You can now explore our site!,You can now explore our site!
 Create Account,label,next_step,Next step:,Next step:
-Create Account,label,can_trading,"To start trading, we need some \nfurther KYC verifications. ","To start trading, we need some \nfurther KYC verifications. "
+Create Account,label,can_trading,"To start trading, we need some \\nfurther KYC verifications. ","To start trading, we need some \\nfurther KYC verifications. "
 Create Account,label,the_test,( The test will take around 10 minutes ),( The test will take around 10 minutes )
 Create Account,button,verify,Verify Now,Verify Now
 Create Account,button,later,I’ll do it later,I’ll do it later
@@ -81,18 +81,18 @@ eKYC Citizen Select,label,foreigner,Foreigner,Foreigner
 eKYC Citizen Select,button,next,Next,Next
 eKYC Citizen Select,label,please_prepare_th,Please prepare the following :,Please prepare the following :
 eKYC Citizen Select,label,idcard_title_th,Your ID card,Your ID card
-eKYC Citizen Select,label,idcard_desc_th,You'll be required to take a photo of \nID card to identify your identity.,You'll be required to take a photo of \nID card to identify your identity.
+eKYC Citizen Select,label,idcard_desc_th,You'll be required to take a photo of \\nID card to identify your identity.,You'll be required to take a photo of \\nID card to identify your identity.
 eKYC Citizen Select,label,photo_title_th,Photo-ready environment,Photo-ready environment
-eKYC Citizen Select,label,photo_desc_th,Please prepare a space with enough light \nto ensure you can take a photo easily,Please prepare a space with enough light \nto ensure you can take a photo easily
+eKYC Citizen Select,label,photo_desc_th,Please prepare a space with enough light \\nto ensure you can take a photo easily,Please prepare a space with enough light \\nto ensure you can take a photo easily
 eKYC Citizen Select,label,personal_title_th,Personal information,Personal information
-eKYC Citizen Select,label,personal_desc_th,Your personal information and your work \nplace information will be required.,Your personal information and your work \nplace information will be required.
+eKYC Citizen Select,label,personal_desc_th,Your personal information and your work \\nplace information will be required.,Your personal information and your work \\nplace information will be required.
 eKYC Citizen Select,label,please_prepare_fr,Please prepare the following :,Please prepare the following :
 eKYC Citizen Select,label,idcard_title_fr,Your Passport,Your Passport
-eKYC Citizen Select,label,idcard_desc_fr,Please prepare your valid passport with at \nleast 3 to 6 months of remaining validity.,Please prepare your valid passport with at \nleast 3 to 6 months of remaining validity.
+eKYC Citizen Select,label,idcard_desc_fr,Please prepare your valid passport with at \\nleast 3 to 6 months of remaining validity.,Please prepare your valid passport with at \\nleast 3 to 6 months of remaining validity.
 eKYC Citizen Select,label,photo_title_fr,Photo-ready environment,Photo-ready environment
-eKYC Citizen Select,label,photo_desc_fr,Please prepare a space with enough light \nto ensure you can take a photo easily,Please prepare a space with enough light \nto ensure you can take a photo easily
+eKYC Citizen Select,label,photo_desc_fr,Please prepare a space with enough light \\nto ensure you can take a photo easily,Please prepare a space with enough light \\nto ensure you can take a photo easily
 eKYC Citizen Select,label,personal_title_fr,Personal information,Personal information
-eKYC Citizen Select,label,personal_desc_fr,Your personal information and your work \nplace information will be required.,Your personal information and your work \nplace information will be required.
+eKYC Citizen Select,label,personal_desc_fr,Your personal information and your work \\nplace information will be required.,Your personal information and your work \\nplace information will be required.
 Work Permit,label,page_title,Personal Information,Personal Information
 Work Permit,label,nationality,Nationality,Nationality
 Work Permit,placeholder,selected_nationality,Select your nationality,Select your nationality
@@ -102,13 +102,13 @@ Work Permit,option,non_resident,Non-Resident,Non-Resident
 Work Permit,label,date_of_birth,Date of Birth ( Day / Month / Year ),Date of Birth ( Day / Month / Year )
 Work Permit,placeholder,date_of_birth,Date of Birth,Date of Birth
 Work Permit,button,next,Next,Next
-Work Permit,label,important,Important \n• Passport must have at least 3 months remaining validity. \n• Upload a photo of your work permit document issued by the government agency,Important \n• Passport must have at least 3 months remaining validity. \n• Upload a photo of your work permit document issued by the government agency
+Work Permit,label,important,Important \\n• Passport must have at least 3 months remaining validity. \\n• Upload a photo of your work permit document issued by the government agency,Important \\n• Passport must have at least 3 months remaining validity. \\n• Upload a photo of your work permit document issued by the government agency
 Work Permit,label,upload_work_permit,Upload a photo of your work permit document,Upload a photo of your work permit document
-Work Permit,label,update_file_support,"PDF, JPG, and PNG file supported \nMaximum size %@ MB","PDF, JPG, and PNG file supported \nMaximum size %@ MB"
+Work Permit,label,update_file_support,"PDF, JPG, and PNG file supported \\nMaximum size %@ MB","PDF, JPG, and PNG file supported \\nMaximum size %@ MB"
 Work Permit,label,file_upload,Files Uploaded,Files Uploaded
 Work Permit,label,no_file_upload,No file uploaded,No file uploaded
 Work Permit,label,file_size,File size: %@ MB,File size: %@ MB
-Work Permit,label,important_non,Important \n• Passport must have at least 6 months remaining validity.,Important \n• Passport must have at least 6 months remaining validity.
+Work Permit,label,important_non,Important \\n• Passport must have at least 6 months remaining validity.,Important \\n• Passport must have at least 6 months remaining validity.
 Work Permit,label,age_warning_long,Your age is below 20. Please recheck your Date of birth as the law require at least age of 20 to be able to trade.,Your age is below 20. Please recheck your Date of birth as the law require at least age of 20 to be able to trade.
 Work Permit,label,age_warning_short,Your age is below 20.,Your age is below 20.
 eKYC Infomation,label,page_title,Personal Information,Personal Information
@@ -176,8 +176,8 @@ NDID Waiting,label,subpage_title,Confirm at the mobile application of the identi
 NDID Waiting,label,subpage_desc,You are verifying your identity for the purpose of Cryptoplat and requiring to submit information from [%@],You are verifying your identity for the purpose of Cryptoplat and requiring to submit information from [%@]
 NDID Waiting,label,tx_ref,(Transaction ref: %@).,(Transaction ref: %@).
 NDID Waiting,label,verify_desc,Please Verify your identification at %@ Mobile application within 60 minutes and return to continue your transaction here,Please Verify your identification at %@ Mobile application within 60 minutes and return to continue your transaction here
-NDID Waiting,label,timeout_subpage_title,"Sorry, you didn’t finish the \nprocess within the time limit","Sorry, you didn’t finish the \nprocess within the time limit"
-NDID Waiting,label,timeout_subpage_desc,Please go back and redo the \nprocess to continue,Please go back and redo the \nprocess to continue
+NDID Waiting,label,timeout_subpage_title,"Sorry, you didn’t finish the \\nprocess within the time limit","Sorry, you didn’t finish the \\nprocess within the time limit"
+NDID Waiting,label,timeout_subpage_desc,Please go back and redo the \\nprocess to continue,Please go back and redo the \\nprocess to continue
 General,button,back,Back,Back
 General,button,edit,Edit,แก้ไข
 General,label,unknown_title,Unknown,ไม่สามารถระบุได้
@@ -293,25 +293,25 @@ Recheck Info,label,checkbox,I hereby certify that the information and documents 
 Recheck Info,label,passport_no,Passport Number,Passport Number
 Recheck Info,label,address_home_country,Address in your home country,Address in your home country
 Recheck Info,label,address_in_thailand,Address in Thailand,Address in Thailand
-Registered Success,label,subpage_title,You have successfully\nverified your identity.,You have successfully\nverified your identity.
-Registered Success,label,desc,The result will be sent to your \nregistered email within 24 hours.,The result will be sent to your \nregistered email within 24 hours.
+Registered Success,label,subpage_title,You have successfully\\nverified your identity.,You have successfully\\nverified your identity.
+Registered Success,label,desc,The result will be sent to your \\nregistered email within 24 hours.,The result will be sent to your \\nregistered email within 24 hours.
 Registered Success,label,next_step,Next step:,Next step:
 Registered Success,label,take_suite_test,Take the investment suitability test.,Take the investment suitability test.
 Suite Test,label,page_title,Suitability Test,Suitability Test
-Suite Test,label,desc,"Next, please complete suitability test. \nYou will not be able to start trading if \nyou do not complete the test.","Next, please complete suitability test. \nYou will not be able to start trading if \nyou do not complete the test."
+Suite Test,label,desc,"Next, please complete suitability test. \\nYou will not be able to start trading if \\nyou do not complete the test.","Next, please complete suitability test. \\nYou will not be able to start trading if \\nyou do not complete the test."
 Suite Test,label,estimate_time,( The test will take around 5 minutes ),( The test will take around 5 minutes )
 General,button,start,Start,Start
 General,button,please_wait,Please Wait...,Please Wait...
-Suite Test,label,result_subpage_title,Your risk tolerance \nassessment result,Your risk tolerance \nassessment result
+Suite Test,label,result_subpage_title,Your risk tolerance \\nassessment result,Your risk tolerance \\nassessment result
 Suite Test,label,result_risk_is,Your risk tolerance level is,Your risk tolerance level is
 Knowledge Test,label,page_title,Crypto Knowledge,Crypto Knowledge
-Knowledge Test,label,subpage_title,Crypto knowledge \nAssessment,Crypto knowledge \nAssessment
+Knowledge Test,label,subpage_title,Crypto knowledge \\nAssessment,Crypto knowledge \\nAssessment
 Knowledge Test,label,desc,You need to pass the test to ensure you fully understand about the potential risk of cryptocurrency. You will not be able to start trading if you do not complete the test.,You need to pass the test to ensure you fully understand about the potential risk of cryptocurrency. You will not be able to start trading if you do not complete the test.
 Knowledge Test,label,estimate_time,( The test will take around 5 - 10 minutes ),( The test will take around 5 - 10 minutes )
 Knowledge Test,label,question_nav,Question %@ of %@,Question %@ of %@
 Knowledge Test,label,explanation,Explanation:,Explanation:
 Knowledge Test,label,command,Please select the correct answer,Please select the correct answer
-Knowledge Test,label,success_title,Congratulations! \nYou passed the test,Congratulations! \nYou passed the test
+Knowledge Test,label,success_title,Congratulations! \\nYou passed the test,Congratulations! \\nYou passed the test
 Knowledge Test,label,success_desc,You have passed Crypto Knowledge test. You can now start trading!,You have passed Crypto Knowledge test. You can now start trading!
 Security,label,page_title,Security,ความปลอดภัย
 Security,menu,change_password,Change password,เปลี่ยนรหัสผ่าน
@@ -387,6 +387,7 @@ Dealer,label,create_order_step,Create order %@,Create order %@
 Dealer,label,select_branch_title,Select Branch,Select Branch
 Dealer,label,select_branch_step,Select Branch to Cashout,Select Branch to Cashout
 Dealer,label,verify_ident_step,Verify your identity,Verify your identity
+Dealer,label,your_order_title,Your Order,Your Order
 Dealer,label,confirm_order_step,Confirm Your Order,Confirm Your Order
 Dealer,label,spend,Spend,Spend
 Dealer,label,balance_amount,Balance:,Balance:
@@ -401,13 +402,13 @@ Dealer,label,inverse_rate,Inverse Rate,Inverse Rate
 Dealer,label,tx_fee,Transaction Fees,Transaction Fees
 Dealer,label,you_will_receive,You will receive,You will receive
 Dealer,button,confirm_in_sec,Confirm (%@ seconds),Confirm (%@ seconds)
-Dealer,label,insufficient_balance,Your account has insufficient balance.\nPlease fund your account.,Your account has insufficient balance.\nPlease fund your account.
-Dealer,label,rate_has_changed,The current rate has been changed.\nPlease refresh the quote.,The current rate has been changed.\nPlease refresh the quote.
+Dealer,label,insufficient_balance,Your account has insufficient balance.\\nPlease fund your account.,Your account has insufficient balance.\\nPlease fund your account.
+Dealer,label,rate_has_changed,The current rate has been changed.\\nPlease refresh the quote.,The current rate has been changed.\\nPlease refresh the quote.
 Dealer,button,refresh_rate,Refresh Quote,Refresh Quote
 Dealer,label,success_verify_ident,Successfully verified identity,Successfully verified identity
-Dealer,label,success_verify_ident_desc,Your documents have been reviewed and your identity has been successfully verified.\n\nYou can proceed to the next step.,Your documents have been reviewed and your identity has been successfully verified.\n\nYou can proceed to the next step.
+Dealer,label,success_verify_ident_desc,Your documents have been reviewed and your identity has been successfully verified.\\n\\nYou can proceed to the next step.,Your documents have been reviewed and your identity has been successfully verified.\\n\\nYou can proceed to the next step.
 Dealer,label,cancel_order_title,Do you want to cancel the order?,Do you want to cancel the order?
-Dealer,label,cancel_order_desc,"If you wish to cancel the order, you can select the 'Confirm Cancel Order' button to make a new transaction.\nNote that you can cancel orders up to 5 times per day. If the limit is exceeded, the system will lock you out of using this feature.","If you wish to cancel the order, you can select the 'Confirm Cancel Order' button to make a new transaction.\nNote that you can cancel orders up to 5 times per day. If the limit is exceeded, the system will lock you out of using this feature."
+Dealer,label,cancel_order_desc,"If you wish to cancel the order, you can select the 'Confirm Cancel Order' button to make a new transaction.\\nNote that you can cancel orders up to 5 times per day. If the limit is exceeded, the system will lock you out of using this feature.","If you wish to cancel the order, you can select the 'Confirm Cancel Order' button to make a new transaction.\\nNote that you can cancel orders up to 5 times per day. If the limit is exceeded, the system will lock you out of using this feature."
 Dealer,button,continue_process,Continue on Process,Continue on Process
 Dealer,button,confirm_cancel_order,Confirm Cancel Order,Confirm Cancel Order
 Dealer,label,insufficient_branch_title,Insufficient Funds at Branch,Insufficient Funds at Branch
@@ -426,7 +427,7 @@ Dealer,label,many_customers,Many customers,Many customers
 Dealer,label,please_scan_qr,Please Scan QR Code on the counter services.,Please Scan QR Code on the counter services.
 Dealer,label,wait_for_process_title,Waiting for Process,Waiting for Process
 Dealer,label,verify_desc_first,Verify your identity with the branch staff.  Please prepare the following documents for withdrawing money at the branch:,Verify your identity with the branch staff.  Please prepare the following documents for withdrawing money at the branch:
-Dealer,label,verify_desc_second,1. Original passport\n2. Work permit,1. Original passport\n2. Work permit
+Dealer,label,verify_desc_second,1. Original passport\\n2. Work permit,1. Original passport\\n2. Work permit
 Dealer,label,verify_desc_third,And bring the mobile phone you used for the withdrawal transaction to complete the process at the service point.,And bring the mobile phone you used for the withdrawal transaction to complete the process at the service point.
 Dealer,button,cancel_order,Cancel Order,Cancel Order
 Dealer,label,tx_will_auto_cancel,The transaction will be automatically cancelled at the end of the day.,The transaction will be automatically cancelled at the end of the day.

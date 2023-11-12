@@ -11,6 +11,7 @@ public extension LangKey {
         case labelSelectBranchTitle = "dealer.label.select_branch_title"
         case labelSelectBranchStep = "dealer.label.select_branch_step"
         case labelVerifyIdentStep = "dealer.label.verify_ident_step"
+        case labelYourOrderTitle = "dealer.label.your_order_title"
         case labelConfirmOrderStep = "dealer.label.confirm_order_step"
         case labelSpend = "dealer.label.spend"
         case labelBalanceAmount = "dealer.label.balance_amount"
