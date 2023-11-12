@@ -8,6 +8,7 @@ public extension LangKey {
         case buttonOnWalletDesc = "dealer.button.on_wallet_desc"
         case labelCurrentStep = "dealer.label.current_step"
         case labelCreateOrderStep = "dealer.label.create_order_step"
+        case labelSelectBranchTitle = "dealer.label.select_branch_title"
         case labelSelectBranchStep = "dealer.label.select_branch_step"
         case labelVerifyIdentStep = "dealer.label.verify_ident_step"
         case labelConfirmOrderStep = "dealer.label.confirm_order_step"
@@ -42,5 +43,7 @@ public extension LangKey {
         case labelPriceWithSymbol = "dealer.label.price_with_symbol"
         case labelFeeWithSymbol = "dealer.label.fee_with_symbol"
         case labelTotalWithSymbol = "dealer.label.total_with_symbol"
+        case labelBranchOpenTime = "dealer.label.branch_open_time"
+        case buttonOpenMap = "dealer.button.open_map"
     }
 }

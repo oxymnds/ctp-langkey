@@ -22,6 +22,7 @@ Auth,label,forgot_password_success_title,We just sent a password reset link to y
 Auth,label,forgot_password_success_desc,"To change your password, please press the link sent to","To change your password, please press the link sent to"
 General,button,next,Next,ต่อไป
 General,button,confirm,Confirm,ยืนยัน
+General,button,sending,Sending ...,กำลังดำเนินการ ...
 Create Account,label,email_field,Email,อีเมล์
 Create Account,placeholder,email_field,Email,อีเมล์
 Create Account,label,mobile_no_field,Mobile Number,เบอร์โทรศัพท์
@@ -383,16 +384,17 @@ Dealer,button,on_wallet_title,Receive on your wallet,Receive on your wallet
 Dealer,button,on_wallet_desc,"After you have successfully sold your cryptocurrencies, the money will be transferred to your balance THB wallet.","After you have successfully sold your cryptocurrencies, the money will be transferred to your balance THB wallet."
 Dealer,label,current_step,Step %@ out of %@,Step %@ out of %@
 Dealer,label,create_order_step,Create order %@,Create order %@
+Dealer,label,select_branch_title,Select Branch,Select Branch
 Dealer,label,select_branch_step,Select Branch to Cashout,Select Branch to Cashout
 Dealer,label,verify_ident_step,Verify your identity,Verify your identity
 Dealer,label,confirm_order_step,Confirm Your Order,Confirm Your Order
 Dealer,label,spend,Spend,Spend
-Dealer,label,balance_amount,Balance: %@,Balance: %@
+Dealer,label,balance_amount,Balance:,Balance: %@
 Dealer,label,receive,Receive,Receive
 Dealer,label,limit_per_visit,*Limit %@ per visit,*Limit %@ per visit
 Dealer,label,tx_fee_amount,Transaction Fees %@,Transaction Fees %@
 Dealer,label,exchange_rate_will_change_remark,The actual exchange rate will be recalculated at the counter service.,The actual exchange rate will be recalculated at the counter service.
-Dealer,label,cash_balance_amount,Cash Balance: %@,Cash Balance: %@
+Dealer,label,cash_balance_amount,Cash Balance:,Cash Balance: %@
 Dealer,label,confirm_title,Confirm,Confirm
 Dealer,label,rate,Rate,Rate
 Dealer,label,inverse_rate,Inverse Rate,Inverse Rate
@@ -417,6 +419,8 @@ Dealer,label,filled_with_symbol,Filled (%@),Filled (%@)
 Dealer,label,price_with_symbol,Price (%@),Price (%@)
 Dealer,label,fee_with_symbol,Fee (%@),Fee (%@)
 Dealer,label,total_with_symbol,Total (%@),Total (%@)
+Dealer,label,branch_open_time,Open : %@,Open : %@
+Dealer,button,open_map,Directions : Open Map,Directions : Open Map
 Bank Account,label,page_title,Bank Account,Bank Account
 Bank Account,button,add_bank_acc,+  Add bank account,+  Add bank account
 Bank Account,label,select_bank_title,Select A Bank,Select A Bank
