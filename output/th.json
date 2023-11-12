@@ -426,6 +426,7 @@
     "dealer.label.verify_desc_third": "And bring the mobile phone you used for the withdrawal transaction to complete the process at the service point.",
     "dealer.button.cancel_order": "Cancel Order",
     "dealer.label.tx_will_auto_cancel": "The transaction will be automatically cancelled at the end of the day.",
+    "dealer.label.from_to": "%@ to %@",
     "bank_account.label.page_title": "Bank Account",
     "bank_account.button.add_bank_acc": "+  Add bank account",
     "bank_account.label.select_bank_title": "Select A Bank",

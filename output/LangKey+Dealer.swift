@@ -55,5 +55,6 @@ public extension LangKey {
         case labelVerifyDescThird = "dealer.label.verify_desc_third"
         case buttonCancelOrder = "dealer.button.cancel_order"
         case labelTxWillAutoCancel = "dealer.label.tx_will_auto_cancel"
+        case labelFromTo = "dealer.label.from_to"
     }
 }
