@@ -45,5 +45,14 @@ public extension LangKey {
         case labelTotalWithSymbol = "dealer.label.total_with_symbol"
         case labelBranchOpenTime = "dealer.label.branch_open_time"
         case buttonOpenMap = "dealer.button.open_map"
+        case labelFewCustomers = "dealer.label.few_customers"
+        case labelManyCustomers = "dealer.label.many_customers"
+        case labelPleaseScanQr = "dealer.label.please_scan_qr"
+        case labelWaitForProcessTitle = "dealer.label.wait_for_process_title"
+        case labelVerifyDescFirst = "dealer.label.verify_desc_first"
+        case labelVerifyDescSecond = "dealer.label.verify_desc_second"
+        case labelVerifyDescThird = "dealer.label.verify_desc_third"
+        case buttonCancelOrder = "dealer.button.cancel_order"
+        case labelTxWillAutoCancel = "dealer.label.tx_will_auto_cancel"
     }
 }

@@ -389,12 +389,12 @@ Dealer,label,select_branch_step,Select Branch to Cashout,Select Branch to Cashou
 Dealer,label,verify_ident_step,Verify your identity,Verify your identity
 Dealer,label,confirm_order_step,Confirm Your Order,Confirm Your Order
 Dealer,label,spend,Spend,Spend
-Dealer,label,balance_amount,Balance:,Balance: %@
+Dealer,label,balance_amount,Balance:,Balance:
 Dealer,label,receive,Receive,Receive
 Dealer,label,limit_per_visit,*Limit %@ per visit,*Limit %@ per visit
 Dealer,label,tx_fee_amount,Transaction Fees %@,Transaction Fees %@
 Dealer,label,exchange_rate_will_change_remark,The actual exchange rate will be recalculated at the counter service.,The actual exchange rate will be recalculated at the counter service.
-Dealer,label,cash_balance_amount,Cash Balance:,Cash Balance: %@
+Dealer,label,cash_balance_amount,Cash Balance:,Cash Balance:
 Dealer,label,confirm_title,Confirm,Confirm
 Dealer,label,rate,Rate,Rate
 Dealer,label,inverse_rate,Inverse Rate,Inverse Rate
@@ -421,6 +421,15 @@ Dealer,label,fee_with_symbol,Fee (%@),Fee (%@)
 Dealer,label,total_with_symbol,Total (%@),Total (%@)
 Dealer,label,branch_open_time,Open : %@,Open : %@
 Dealer,button,open_map,Directions : Open Map,Directions : Open Map
+Dealer,label,few_customers,Few customers,Few customers
+Dealer,label,many_customers,Many customers,Many customers
+Dealer,label,please_scan_qr,Please Scan QR Code on the counter services.,Please Scan QR Code on the counter services.
+Dealer,label,wait_for_process_title,Waiting for Process,Waiting for Process
+Dealer,label,verify_desc_first,Verify your identity with the branch staff.  Please prepare the following documents for withdrawing money at the branch:,Verify your identity with the branch staff.  Please prepare the following documents for withdrawing money at the branch:
+Dealer,label,verify_desc_second,1. Original passport\n2. Work permit,1. Original passport\n2. Work permit
+Dealer,label,verify_desc_third,And bring the mobile phone you used for the withdrawal transaction to complete the process at the service point.,And bring the mobile phone you used for the withdrawal transaction to complete the process at the service point.
+Dealer,button,cancel_order,Cancel Order,Cancel Order
+Dealer,label,tx_will_auto_cancel,The transaction will be automatically cancelled at the end of the day.,The transaction will be automatically cancelled at the end of the day.
 Bank Account,label,page_title,Bank Account,Bank Account
 Bank Account,button,add_bank_acc,+  Add bank account,+  Add bank account
 Bank Account,label,select_bank_title,Select A Bank,Select A Bank
