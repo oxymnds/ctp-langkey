@@ -383,6 +383,9 @@ Dealer,button,on_wallet_title,Receive on your wallet,Receive on your wallet
 Dealer,button,on_wallet_desc,"After you have successfully sold your cryptocurrencies, the money will be transferred to your balance THB wallet.","After you have successfully sold your cryptocurrencies, the money will be transferred to your balance THB wallet."
 Dealer,label,current_step,Step %@ out of %@,Step %@ out of %@
 Dealer,label,create_order_step,Create order %@,Create order %@
+Dealer,label,select_branch_step,Select Branch to Cashout,Select Branch to Cashout
+Dealer,label,verify_ident_step,Verify your identity,Verify your identity
+Dealer,label,confirm_order_step,Confirm Your Order,Confirm Your Order
 Dealer,label,spend,Spend,Spend
 Dealer,label,balance_amount,Balance: %@,Balance: %@
 Dealer,label,receive,Receive,Receive
@@ -399,3 +402,32 @@ Dealer,button,confirm_in_sec,Confirm (%@ seconds),Confirm (%@ seconds)
 Dealer,label,insufficient_balance,Your account has insufficient balance.\nPlease fund your account.,Your account has insufficient balance.\nPlease fund your account.
 Dealer,label,rate_has_changed,The current rate has been changed.\nPlease refresh the quote.,The current rate has been changed.\nPlease refresh the quote.
 Dealer,button,refresh_rate,Refresh Quote,Refresh Quote
+Dealer,label,success_verify_ident,Successfully verified identity,Successfully verified identity
+Dealer,label,success_verify_ident_desc,Your documents have been reviewed and your identity has been successfully verified.\n\nYou can proceed to the next step.,Your documents have been reviewed and your identity has been successfully verified.\n\nYou can proceed to the next step.
+Dealer,label,cancel_order_title,Do you want to cancel the order?,Do you want to cancel the order?
+Dealer,label,cancel_order_desc,"If you wish to cancel the order, you can select the 'Confirm Cancel Order' button to make a new transaction.\nNote that you can cancel orders up to 5 times per day. If the limit is exceeded, the system will lock you out of using this feature.","If you wish to cancel the order, you can select the 'Confirm Cancel Order' button to make a new transaction.\nNote that you can cancel orders up to 5 times per day. If the limit is exceeded, the system will lock you out of using this feature."
+Dealer,button,continue_process,Continue on Process,Continue on Process
+Dealer,button,confirm_cancel_order,Confirm Cancel Order,Confirm Cancel Order
+Dealer,label,insufficient_branch_title,Insufficient Funds at Branch,Insufficient Funds at Branch
+Dealer,label,insufficient_branch_desc,"Sorry, the branch you selected doesn't have enough funds for the exchange. Feel free to choose another one. :)","Sorry, the branch you selected doesn't have enough funds for the exchange. Feel free to choose another one. :)"
+Dealer,button,submit,Submit,Submit
+Dealer,label,order_complete_title,Complete,Complete
+Dealer,label,order_complete_desc,Your order was complete.,Your order was complete.
+Dealer,label,filled_with_symbol,Filled (%@),Filled (%@)
+Dealer,label,price_with_symbol,Price (%@),Price (%@)
+Dealer,label,fee_with_symbol,Fee (%@),Fee (%@)
+Dealer,label,total_with_symbol,Total (%@),Total (%@)
+Bank Account,label,page_title,Bank Account,Bank Account
+Bank Account,,,,
+Bank Account,,,,
+Bank Account,,,,
+Bank Account,,,,
+Bank Account,,,,
+Bank Account,,,,
+Bank Account,,,,
+Bank Account,,,,
+Bank Account,,,,
+Bank Account,,,,
+Bank Account,,,,
+Bank Account,,,,
+Bank Account,,,,
