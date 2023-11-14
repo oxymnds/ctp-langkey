@@ -432,6 +432,7 @@ Dealer,label,verify_desc_third,And bring the mobile phone you used for the withd
 Dealer,button,cancel_order,Cancel Order,Cancel Order
 Dealer,label,tx_will_auto_cancel,The transaction will be automatically cancelled at the end of the day.,The transaction will be automatically cancelled at the end of the day.
 Dealer,label,from_to,%@ to %@,%@ to %@
+Dealer,label,select_coin,Select Coin,เลือกเหรียญ
 Bank Account,label,page_title,Bank Account,Bank Account
 Bank Account,button,add_bank_acc,+  Add bank account,+  Add bank account
 Bank Account,label,select_bank_title,Select A Bank,Select A Bank
