@@ -13,5 +13,6 @@ public extension LangKey {
         case buttonBuy = "general.button.buy"
         case buttonSell = "general.button.sell"
         case buttonClose = "general.button.close"
+        case buttonDelete = "general.button.delete"
     }
 }

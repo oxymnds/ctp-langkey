@@ -492,3 +492,7 @@ Change Password,button,submit,Submit,Submit
 Change Password,label,change_password_success,Change Password\nSuccessfully,Change Password\nSuccessfully
 Change Password,label,recommend_msg,"Please note, we recommend leaving 2-factor authentication for added security.","Please note, we recommend leaving 2-factor authentication for added security."
 General,button,close,Close,Close
+Device Management,label,page_title,Device Management,Device Management
+Device Management,label,page_desc,These are the devices currently allowed to access your account.,These are the devices currently allowed to access your account.
+Device Management,label,delete_dialog_title,Are you sure you want to delete this device?,Are you sure you want to delete this device?
+General,button,delete,Delete,Delete
