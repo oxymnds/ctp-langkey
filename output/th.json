@@ -490,5 +490,11 @@
     "device_management.label.page_title": "Device Management",
     "device_management.label.page_desc": "These are the devices currently allowed to access your account.",
     "device_management.label.delete_dialog_title": "Are you sure you want to delete this device?",
-    "general.button.delete": "Delete"
+    "general.button.delete": "Delete",
+    "account_activity.label.page_title": "Account Activity",
+    "account_activity.label.user_agent": "User Agent",
+    "account_activity.label.ip_address": "IP address",
+    "help_and_support.label.page_title": "Help & Support",
+    "help_and_support.label.search_title": "Search our FAQ",
+    "help_and_support.label.search_placeholder": "Search help articles"
 }
