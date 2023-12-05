@@ -478,5 +478,13 @@
     "change_password.label.new_password": "New Password",
     "change_password.label.confirm_new_password": "Confirm New Password",
     "change_password.label.confirm_new_password_placeholder": "Please Confirm New Password",
-    "NaN": "Please note, we recommend leaving 2-factor authentication for added security."
+    "change_password.label.require_title": "Password Require:",
+    "change_password.label.require_1": "Use at least 8 characters",
+    "change_password.label.require_2": "Use at least 1 lowercase and 1 uppercase character",
+    "change_password.label.require_3": "Use at least 1 number",
+    "change_password.label.require_4": "Use at least 1 special character",
+    "change_password.button.submit": "Submit",
+    "change_password.label.change_password_success": "Change Password\\nSuccessfully",
+    "change_password.label.recommend_msg": "Please note, we recommend leaving 2-factor authentication for added security.",
+    "general.button.close": "Close"
 }

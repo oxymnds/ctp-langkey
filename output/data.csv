@@ -475,20 +475,20 @@ Notification,label,clear_all,Clear All,Clear All
 Notification,label,clear_all_dialog_title,Are you sure you want to clear all notifications?,Are you sure you want to clear all notifications?
 Notification,label,clear_all_dialog_desc,"Once cleared, you will no longer be able to access them.","Once cleared, you will no longer be able to access them."
 Notification,button,view_more,View more >,View more >
-Change Password,label,page_title,Change password,
-Change Password,label,remark,"In order to protect your account, withdrawals, and payment services, will be disabled for 24 hours after you change your password.",
-Change Password,label,old_password,Old password,
-Change Password,button,forgot_password,Forgot Password,
-Change Password,label,password_incorrect,Your password is incorrect.,
-Change Password,label,new_password,New Password,
-Change Password,label,confirm_new_password,Confirm New Password,
-Change Password,label,confirm_new_password_placeholder,Please Confirm New Password,
-Change Password,label,,Password Require:,
-Change Password,label,,Use at least 8 characters,
-Change Password,label,,Use at least 1 lowercase and 1 uppercase character,
-Change Password,label,,Use at least 1 number,
-Change Password,label,,Use at least 1 special character,
-Change Password,button,,Submit,
-Change Password,label,,"Change Password
-Successfully",
-Change Password,label,,"Please note, we recommend leaving 2-factor authentication for added security.",
+Change Password,label,page_title,Change password,Change password
+Change Password,label,remark,"In order to protect your account, withdrawals, and payment services, will be disabled for 24 hours after you change your password.","In order to protect your account, withdrawals, and payment services, will be disabled for 24 hours after you change your password."
+Change Password,label,old_password,Old password,Old password
+Change Password,button,forgot_password,Forgot Password,Forgot Password
+Change Password,label,password_incorrect,Your password is incorrect.,Your password is incorrect.
+Change Password,label,new_password,New Password,New Password
+Change Password,label,confirm_new_password,Confirm New Password,Confirm New Password
+Change Password,label,confirm_new_password_placeholder,Please Confirm New Password,Please Confirm New Password
+Change Password,label,require_title,Password Require:,Password Require:
+Change Password,label,require_1,Use at least 8 characters,Use at least 8 characters
+Change Password,label,require_2,Use at least 1 lowercase and 1 uppercase character,Use at least 1 lowercase and 1 uppercase character
+Change Password,label,require_3,Use at least 1 number,Use at least 1 number
+Change Password,label,require_4,Use at least 1 special character,Use at least 1 special character
+Change Password,button,submit,Submit,Submit
+Change Password,label,change_password_success,Change Password\nSuccessfully,Change Password\nSuccessfully
+Change Password,label,recommend_msg,"Please note, we recommend leaving 2-factor authentication for added security.","Please note, we recommend leaving 2-factor authentication for added security."
+General,button,close,Close,Close
