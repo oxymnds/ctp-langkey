@@ -457,5 +457,17 @@
     "bank_account.label.reviewing": "Reviewing",
     "bank_account.label.rejected": "Rejected",
     "bank_account.button.make_primary": "Make Primary",
-    "bank_account.label.confirm_make_primary_title": "Are you sure you want to make this account primary?"
+    "bank_account.label.confirm_make_primary_title": "Are you sure you want to make this account primary?",
+    "notification.label.page_title": "Notifications",
+    "notification.button.all": "All",
+    "notification.button.system": "System",
+    "notification.button.transaction": "Transaction",
+    "notification.button.announcement": "Announcement",
+    "notification.label.today": "Today",
+    "notification.label.previously": "Previously",
+    "notification.label.mark_all_as_read": "Mark All As read",
+    "notification.label.clear_all": "Clear All",
+    "notification.label.clear_all_dialog_title": "Are you sure you want to clear all notifications?",
+    "notification.label.clear_all_dialog_desc": "Once cleared, you will no longer be able to access them.",
+    "notification.button.view_more": "View more >"
 }

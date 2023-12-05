@@ -463,3 +463,15 @@ Bank Account,label,reviewing,Reviewing,Reviewing
 Bank Account,label,rejected,Rejected,Rejected
 Bank Account,button,make_primary,Make Primary,Make Primary
 Bank Account,label,confirm_make_primary_title,Are you sure you want to make this account primary?,Are you sure you want to make this account primary?
+Notification,label,page_title,Notifications,Notifications
+Notification,button,all,All,All
+Notification,button,system,System,System
+Notification,button,transaction,Transaction,Transaction
+Notification,button,announcement,Announcement,Announcement
+Notification,label,today,Today,Today
+Notification,label,previously,Previously,Previously
+Notification,label,mark_all_as_read,Mark All As read,Mark All As read
+Notification,label,clear_all,Clear All,Clear All
+Notification,label,clear_all_dialog_title,Are you sure you want to clear all notifications?,Are you sure you want to clear all notifications?
+Notification,label,clear_all_dialog_desc,"Once cleared, you will no longer be able to access them.","Once cleared, you will no longer be able to access them."
+Notification,button,view_more,View more >,View more >
