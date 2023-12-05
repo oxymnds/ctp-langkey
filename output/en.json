@@ -469,5 +469,14 @@
     "notification.label.clear_all": "Clear All",
     "notification.label.clear_all_dialog_title": "Are you sure you want to clear all notifications?",
     "notification.label.clear_all_dialog_desc": "Once cleared, you will no longer be able to access them.",
-    "notification.button.view_more": "View more >"
+    "notification.button.view_more": "View more >",
+    "change_password.label.page_title": "Change password",
+    "change_password.label.remark": "In order to protect your account, withdrawals, and payment services, will be disabled for 24 hours after you change your password.",
+    "change_password.label.old_password": "Old password",
+    "change_password.button.forgot_password": "Forgot Password",
+    "change_password.label.password_incorrect": "Your password is incorrect.",
+    "change_password.label.new_password": "New Password",
+    "change_password.label.confirm_new_password": "Confirm New Password",
+    "change_password.label.confirm_new_password_placeholder": "Please Confirm New Password",
+    "NaN": "Please note, we recommend leaving 2-factor authentication for added security."
 }

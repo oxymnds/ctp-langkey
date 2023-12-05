@@ -469,5 +469,14 @@
     "notification.label.clear_all": "Clear All",
     "notification.label.clear_all_dialog_title": "Are you sure you want to clear all notifications?",
     "notification.label.clear_all_dialog_desc": "Once cleared, you will no longer be able to access them.",
-    "notification.button.view_more": "View more >"
+    "notification.button.view_more": "View more >",
+    "change_password.label.page_title": NaN,
+    "change_password.label.remark": NaN,
+    "change_password.label.old_password": NaN,
+    "change_password.button.forgot_password": NaN,
+    "change_password.label.password_incorrect": NaN,
+    "change_password.label.new_password": NaN,
+    "change_password.label.confirm_new_password": NaN,
+    "change_password.label.confirm_new_password_placeholder": NaN,
+    "NaN": NaN
 }

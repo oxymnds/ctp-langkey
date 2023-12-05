@@ -1,0 +1,12 @@
+public extension LangKey {
+    enum ChangePassword: String {
+        case labelPageTitle = "change_password.label.page_title"
+        case labelRemark = "change_password.label.remark"
+        case labelOldPassword = "change_password.label.old_password"
+        case buttonForgotPassword = "change_password.button.forgot_password"
+        case labelPasswordIncorrect = "change_password.label.password_incorrect"
+        case labelNewPassword = "change_password.label.new_password"
+        case labelConfirmNewPassword = "change_password.label.confirm_new_password"
+        case labelConfirmNewPasswordPlaceholder = "change_password.label.confirm_new_password_placeholder"
+    }
+}
