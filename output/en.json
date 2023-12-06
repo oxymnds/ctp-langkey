@@ -458,6 +458,10 @@
     "bank_account.label.rejected": "Rejected",
     "bank_account.button.make_primary": "Make Primary",
     "bank_account.label.confirm_make_primary_title": "Are you sure you want to make this account primary?",
+    "bank_account.label.primary": "Primary",
+    "bank_account.label.other": "Other",
+    "bank_account.label.confirm_delete_acc_title": "Are you sure you want to delete your account?",
+    "bank_account.label.confirm_delete_acc_desc": "Please note that account deletion is irreversible. Once deleted, you will not be able to access it or view transaction histories.",
     "notification.label.page_title": "Notifications",
     "notification.button.all": "All",
     "notification.button.system": "System",
@@ -537,5 +541,14 @@
     "twofa.label.disable_first_title": "First 2-FA Code",
     "twofa.label.disable_second_title": "Second 2-FA Code",
     "twofa.label.disable_success_title": "You have successfully disabled 2-FA Authentication",
-    "twofa.label.disable_success_desc": "Please note, we recommend leaving 2-factor authentication for added security."
+    "twofa.label.disable_success_desc": "Please note, we recommend leaving 2-factor authentication for added security.",
+    "main_profile.menu.verifications": "Verifications",
+    "main_profile.menu.security": "Security",
+    "main_profile.menu.settings": "Settings",
+    "main_profile.menu.bank_account": "Bank Account",
+    "main_profile.menu.help_support": "Help & Support",
+    "main_profile.menu.log_out": "Log out",
+    "main_profile.label.user_id": "ID : %@",
+    "main_profile.label.page_title": "Profile",
+    "main_profile.label.confirm_logout_title": "Do you want to logout?"
 }

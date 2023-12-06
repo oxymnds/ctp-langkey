@@ -30,5 +30,9 @@ public extension LangKey {
         case labelRejected = "bank_account.label.rejected"
         case buttonMakePrimary = "bank_account.button.make_primary"
         case labelConfirmMakePrimaryTitle = "bank_account.label.confirm_make_primary_title"
+        case labelPrimary = "bank_account.label.primary"
+        case labelOther = "bank_account.label.other"
+        case labelConfirmDeleteAccTitle = "bank_account.label.confirm_delete_acc_title"
+        case labelConfirmDeleteAccDesc = "bank_account.label.confirm_delete_acc_desc"
     }
 }

@@ -463,6 +463,10 @@ Bank Account,label,reviewing,Reviewing,Reviewing
 Bank Account,label,rejected,Rejected,Rejected
 Bank Account,button,make_primary,Make Primary,Make Primary
 Bank Account,label,confirm_make_primary_title,Are you sure you want to make this account primary?,Are you sure you want to make this account primary?
+Bank Account,label,primary,Primary,Primary
+Bank Account,label,other,Other,Other
+Bank Account,label,confirm_delete_acc_title,Are you sure you want to delete your account?,Are you sure you want to delete your account?
+Bank Account,label,confirm_delete_acc_desc,"Please note that account deletion is irreversible. Once deleted, you will not be able to access it or view transaction histories.","Please note that account deletion is irreversible. Once deleted, you will not be able to access it or view transaction histories."
 Notification,label,page_title,Notifications,Notifications
 Notification,button,all,All,All
 Notification,button,system,System,System
@@ -543,3 +547,12 @@ TwoFA,label,disable_first_title,First 2-FA Code,First 2-FA Code
 TwoFA,label,disable_second_title,Second 2-FA Code,Second 2-FA Code
 TwoFA,label,disable_success_title,You have successfully disabled 2-FA Authentication,You have successfully disabled 2-FA Authentication
 TwoFA,label,disable_success_desc,"Please note, we recommend leaving 2-factor authentication for added security.","Please note, we recommend leaving 2-factor authentication for added security."
+Main Profile,menu,verifications,Verifications,Verifications
+Main Profile,menu,security,Security,Security
+Main Profile,menu,settings,Settings,Settings
+Main Profile,menu,bank_account,Bank Account,Bank Account
+Main Profile,menu,help_support,Help & Support,Help & Support
+Main Profile,menu,log_out,Log out,Log out
+Main Profile,label,user_id,ID : %@,ID : %@
+Main Profile,label,page_title,Profile,Profile
+Main Profile,label,confirm_logout_title,Do you want to logout?,Do you want to logout?
