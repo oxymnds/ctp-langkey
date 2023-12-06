@@ -527,5 +527,15 @@
     "general.button.copy": "Copy",
     "twofa.label.two_fa_enable_title": "Your 2-FA Authentication has been enabled",
     "twofa.label.two_fa_enable_desc": "Please maintain this authenticator application on your mobile device as you need to get a new secret key each time you login or withdraw.",
-    "twofa.label.incorrect_code": "Your have entered an incorrect code."
+    "twofa.label.incorrect_code": "Your have entered an incorrect code.",
+    "twofa.label.ga_activated_desc": "Your 2-Factor Authentication has been activated with this mobile application",
+    "twofa.button.disable_two_fa": "Disable 2-FA",
+    "twofa.label.disable_page_title": "Disable 2-FA",
+    "twofa.label.disable_first_desc": "You will need to enter two 2-FA codes to disable 2-factor authentication. Please enter the first code.",
+    "twofa.label.disable_second_desc": "Please enter the second code.",
+    "twofa.label.disable_remark": "Please note, we recommend leaving 2-factor authentication for added security.",
+    "twofa.label.disable_first_title": "First 2-FA Code",
+    "twofa.label.disable_second_title": "Second 2-FA Code",
+    "twofa.label.disable_success_title": "You have successfully disabled 2-FA Authentication",
+    "twofa.label.disable_success_desc": "Please note, we recommend leaving 2-factor authentication for added security."
 }

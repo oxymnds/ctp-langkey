@@ -16,5 +16,15 @@ public extension LangKey {
         case labelTwoFaEnableTitle = "twofa.label.two_fa_enable_title"
         case labelTwoFaEnableDesc = "twofa.label.two_fa_enable_desc"
         case labelIncorrectCode = "twofa.label.incorrect_code"
+        case labelGaActivatedDesc = "twofa.label.ga_activated_desc"
+        case buttonDisableTwoFa = "twofa.button.disable_two_fa"
+        case labelDisablePageTitle = "twofa.label.disable_page_title"
+        case labelDisableFirstDesc = "twofa.label.disable_first_desc"
+        case labelDisableSecondDesc = "twofa.label.disable_second_desc"
+        case labelDisableRemark = "twofa.label.disable_remark"
+        case labelDisableFirstTitle = "twofa.label.disable_first_title"
+        case labelDisableSecondTitle = "twofa.label.disable_second_title"
+        case labelDisableSuccessTitle = "twofa.label.disable_success_title"
+        case labelDisableSuccessDesc = "twofa.label.disable_success_desc"
     }
 }

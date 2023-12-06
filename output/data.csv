@@ -530,6 +530,16 @@ TwoFA,label,setup_key_note,Please write down this code on your paper. This code 
 TwoFA,label,verify_complete_title,Verify and Complete,Verify and Complete
 TwoFA,label,verify_complete_desc,Copy the code from your phone and click paste from clipboard,Copy the code from your phone and click paste from clipboard
 General,button,copy,Copy,Copy
-TwoFA,label,two_fa_enable_title,Your 2-FA Authentication has been enabled,
-TwoFA,label,two_fa_enable_desc,Please maintain this authenticator application on your mobile device as you need to get a new secret key each time you login or withdraw.,
-TwoFA,label,incorrect_code,Your have entered an incorrect code.,
+TwoFA,label,two_fa_enable_title,Your 2-FA Authentication has been enabled,Your 2-FA Authentication has been enabled
+TwoFA,label,two_fa_enable_desc,Please maintain this authenticator application on your mobile device as you need to get a new secret key each time you login or withdraw.,Please maintain this authenticator application on your mobile device as you need to get a new secret key each time you login or withdraw.
+TwoFA,label,incorrect_code,Your have entered an incorrect code.,Your have entered an incorrect code.
+TwoFA,label,ga_activated_desc,Your 2-Factor Authentication has been activated with this mobile application,Your 2-Factor Authentication has been activated with this mobile application
+TwoFA,button,disable_two_fa,Disable 2-FA,Disable 2-FA
+TwoFA,label,disable_page_title,Disable 2-FA,Disable 2-FA
+TwoFA,label,disable_first_desc,You will need to enter two 2-FA codes to disable 2-factor authentication. Please enter the first code.,You will need to enter two 2-FA codes to disable 2-factor authentication. Please enter the first code.
+TwoFA,label,disable_second_desc,Please enter the second code.,Please enter the second code.
+TwoFA,label,disable_remark,"Please note, we recommend leaving 2-factor authentication for added security.","Please note, we recommend leaving 2-factor authentication for added security."
+TwoFA,label,disable_first_title,First 2-FA Code,First 2-FA Code
+TwoFA,label,disable_second_title,Second 2-FA Code,Second 2-FA Code
+TwoFA,label,disable_success_title,You have successfully disabled 2-FA Authentication,You have successfully disabled 2-FA Authentication
+TwoFA,label,disable_success_desc,"Please note, we recommend leaving 2-factor authentication for added security.","Please note, we recommend leaving 2-factor authentication for added security."
