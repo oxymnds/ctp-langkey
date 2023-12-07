@@ -15,5 +15,11 @@ public extension LangKey {
         case buttonClose = "general.button.close"
         case buttonDelete = "general.button.delete"
         case buttonCopy = "general.button.copy"
+        case buttonDeposit = "general.button.deposit"
+        case buttonWithdraw = "general.button.withdraw"
+        case buttonTrade = "general.button.trade"
+        case buttonBuyCrypto = "general.button.buy_crypto"
+        case buttonSellCrypto = "general.button.sell_crypto"
+        case buttonCancelOrder = "general.button.cancel_order"
     }
 }

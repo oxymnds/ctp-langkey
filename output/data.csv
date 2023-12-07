@@ -556,3 +556,40 @@ Main Profile,menu,log_out,Log out,Log out
 Main Profile,label,user_id,ID : %@,ID : %@
 Main Profile,label,page_title,Profile,Profile
 Main Profile,label,confirm_logout_title,Do you want to logout?,Do you want to logout?
+Wallet,label,page_title,Wallet,Wallet
+Wallet,label,balance,Balance,Balance
+Wallet,label,est_all_asset_val,Estimated all asset value,Estimated all asset value
+General,button,deposit,Deposit,Deposit
+General,button,withdraw,Withdraw,Withdraw
+Wallet,label,thb_balances,THB Balances,THB Balances
+Wallet,button,hide_zero,Hide 0 balances,Hide 0 balances
+Wallet,label,no_asset,No assets available,No assets available
+Wallet,label,total,Total,Total
+Wallet,label,available,Available,Available
+Wallet,label,in_order,In order,In order
+General,button,trade,Trade,Trade
+General,button,buy_crypto,Buy Crypto,Buy Crypto
+General,button,sell_crypto,Sell Crypto,Sell Crypto
+Wallet,label,history,History,History
+Wallet,label,data_update,Data updated at %@,Data updated at %@
+Wallet,button,filter_all,All,All
+Wallet,button,filter_deposit_withdraw,Deposit & Withdraw,Deposit & Withdraw
+Wallet,button,fiilter_trade,Trade,Trade
+Wallet,button,filter_buy_sell,Buy & Sell,Buy & Sell
+Wallet,label,buy_detail_page_title,Buy Details,Buy Details
+Wallet,label,sell_detail_page_title,Sell Details,Sell Details
+Wallet,label,amount,Amount,Amount
+Wallet,label,price_with_symbol,Price (%@),Price (%@)
+Wallet,label,fee_with_symbol,Fee (%@),Fee (%@)
+Wallet,label,total_with_symbol,Total (%@),Total (%@)
+Wallet,label,date,Date,Date
+Wallet,label,unavailable_detail_title,Unavailable Details,Unavailable Details
+Wallet,label,withdrawing,Withdrawing,Withdrawing
+Wallet,button,filter_date,This month,This month
+Wallet,label,ticket_id,Ticket ID,Ticket ID
+Wallet,label,receive_amount,Received amount,Received amount
+Wallet,label,withdraw_amount,Widthdraw Amount,Widthdraw Amount
+Wallet,label,deposit_amount,Deposit Amount,Deposit Amount
+Wallet,label,cancel_order_title,Are you sure you want to cancel the pending order?,Are you sure you want to cancel the pending order?
+Wallet,label,cancel_order_desc,Please note that the action is irreversible.,Please note that the action is irreversible.
+General,button,cancel_order,Cancel Order,Cancel Order
