@@ -21,5 +21,12 @@ public extension LangKey {
         case buttonBuyCrypto = "general.button.buy_crypto"
         case buttonSellCrypto = "general.button.sell_crypto"
         case buttonCancelOrder = "general.button.cancel_order"
+        case labelStatusCompleted = "general.label.status_completed"
+        case labelStatusCanceled = "general.label.status_canceled"
+        case labelStatusRejected = "general.label.status_rejected"
+        case labelStatusPending = "general.label.status_pending"
+        case labelStatusError = "general.label.status_error"
+        case labelDeposit = "general.label.deposit"
+        case labelWithdraw = "general.label.withdraw"
     }
 }

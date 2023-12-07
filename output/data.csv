@@ -593,3 +593,11 @@ Wallet,label,deposit_amount,Deposit Amount,Deposit Amount
 Wallet,label,cancel_order_title,Are you sure you want to cancel the pending order?,Are you sure you want to cancel the pending order?
 Wallet,label,cancel_order_desc,Please note that the action is irreversible.,Please note that the action is irreversible.
 General,button,cancel_order,Cancel Order,Cancel Order
+Wallet,label,no_tx_available,No transactions available,No transactions available
+General,label,status_completed,Completed,Completed
+General,label,status_canceled,Canceled,Canceled
+General,label,status_rejected,Rejected,Rejected
+General,label,status_pending,Pending,Pending
+General,label,status_error,Error,Error
+General,label,deposit,Deposit,Deposit
+General,label,withdraw,Withdraw,Withdraw

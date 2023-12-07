@@ -587,5 +587,13 @@
     "wallet.label.deposit_amount": "Deposit Amount",
     "wallet.label.cancel_order_title": "Are you sure you want to cancel the pending order?",
     "wallet.label.cancel_order_desc": "Please note that the action is irreversible.",
-    "general.button.cancel_order": "Cancel Order"
+    "general.button.cancel_order": "Cancel Order",
+    "wallet.label.no_tx_available": "No transactions available",
+    "general.label.status_completed": "Completed",
+    "general.label.status_canceled": "Canceled",
+    "general.label.status_rejected": "Rejected",
+    "general.label.status_pending": "Pending",
+    "general.label.status_error": "Error",
+    "general.label.deposit": "Deposit",
+    "general.label.withdraw": "Withdraw"
 }
