@@ -28,5 +28,6 @@ public extension LangKey {
         case labelStatusError = "general.label.status_error"
         case labelDeposit = "general.label.deposit"
         case labelWithdraw = "general.label.withdraw"
+        case labelTransfer = "general.label.transfer"
     }
 }

@@ -595,5 +595,7 @@
     "general.label.status_pending": "Pending",
     "general.label.status_error": "Error",
     "general.label.deposit": "Deposit",
-    "general.label.withdraw": "Withdraw"
+    "general.label.withdraw": "Withdraw",
+    "general.label.transfer": "Transfer",
+    "wallet.label.unavailable": "Unavailable"
 }

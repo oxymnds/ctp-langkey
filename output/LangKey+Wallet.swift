@@ -32,5 +32,6 @@ public extension LangKey {
         case labelCancelOrderTitle = "wallet.label.cancel_order_title"
         case labelCancelOrderDesc = "wallet.label.cancel_order_desc"
         case labelNoTxAvailable = "wallet.label.no_tx_available"
+        case labelUnavailable = "wallet.label.unavailable"
     }
 }

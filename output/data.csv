@@ -601,3 +601,5 @@ General,label,status_pending,Pending,Pending
 General,label,status_error,Error,Error
 General,label,deposit,Deposit,Deposit
 General,label,withdraw,Withdraw,Withdraw
+General,label,transfer,Transfer,Transfer
+Wallet,label,unavailable,Unavailable,Unavailable
