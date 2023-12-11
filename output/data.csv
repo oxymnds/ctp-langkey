@@ -138,8 +138,8 @@ eKYC Infomation,label,laser_code,Laser Code,Laser Code
 eKYC Infomation,placeholder,laser_code,Please input laser code,Please input laser code
 eKYC Infomation,label,date_of_issue,Date of Issue,Date of Issue
 eKYC Infomation,placeholder,date_of_issue,Please input Date of Issue,Please input Date of Issue
-eKYC Infomation,label,date_of_issue,Date of Expire,Date of Expire
-eKYC Infomation,placeholder,date_of_issue,Please input Date of Expire,Please input Date of Expire
+eKYC Infomation,label,date_of_expire,Date of Expire,Date of Expire
+eKYC Infomation,placeholder,date_of_expire,Please input Date of Expire,Please input Date of Expire
 eKYC Infomation,label,age_warning_long,Your age is below 20. Please recheck your Date of birth as the law require at least age of 20 to be able to trade.,Your age is below 20. Please recheck your Date of birth as the law require at least age of 20 to be able to trade.
 eKYC Infomation,label,age_warning_short,Your age is below 20.,Your age is below 20.
 eKYC Infomation,label,fname_fr,First Name,First Name

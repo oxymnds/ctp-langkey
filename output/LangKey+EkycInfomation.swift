@@ -27,6 +27,8 @@ public extension LangKey {
         case placeholderLaserCode = "ekyc_infomation.placeholder.laser_code"
         case labelDateOfIssue = "ekyc_infomation.label.date_of_issue"
         case placeholderDateOfIssue = "ekyc_infomation.placeholder.date_of_issue"
+        case labelDateOfExpire = "ekyc_infomation.label.date_of_expire"
+        case placeholderDateOfExpire = "ekyc_infomation.placeholder.date_of_expire"
         case labelAgeWarningLong = "ekyc_infomation.label.age_warning_long"
         case labelAgeWarningShort = "ekyc_infomation.label.age_warning_short"
         case labelFnameFr = "ekyc_infomation.label.fname_fr"
