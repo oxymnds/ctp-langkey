@@ -233,6 +233,7 @@ Address Info,placeholder,zipcode,Your Zip Code or Postal Code,Your Zip Code or P
 Address Info,label,country,Country,Country
 Address Info,placeholder,country,Select your Country,Select your Country
 Address Info,label,thai_address_section_title,Address in Thailand,Address in Thailand
+Address Info,label,are_you_stay_in_thai,Are you staying in Thailand?,Are you staying in Thailand?
 Address Info,label,work_in_thai,work in Thailand and have the address,work in Thailand and have the address
 Work Info,label,page_title,Personal Information,Personal Information
 Work Info,label,education_section_title,Education,Education

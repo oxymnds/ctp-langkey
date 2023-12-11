@@ -230,6 +230,7 @@
     "address_info.label.country": "Country",
     "address_info.placeholder.country": "Select your Country",
     "address_info.label.thai_address_section_title": "Address in Thailand",
+    "address_info.label.are_you_stay_in_thai": "Are you staying in Thailand?",
     "address_info.label.work_in_thai": "work in Thailand and have the address",
     "work_info.label.page_title": "Personal Information",
     "work_info.label.education_section_title": "Education",

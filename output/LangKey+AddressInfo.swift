@@ -24,6 +24,7 @@ public extension LangKey {
         case labelCountry = "address_info.label.country"
         case placeholderCountry = "address_info.placeholder.country"
         case labelThaiAddressSectionTitle = "address_info.label.thai_address_section_title"
+        case labelAreYouStayInThai = "address_info.label.are_you_stay_in_thai"
         case labelWorkInThai = "address_info.label.work_in_thai"
     }
 }
