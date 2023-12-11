@@ -603,4 +603,27 @@ General,label,deposit,Deposit,Deposit
 General,label,withdraw,Withdraw,Withdraw
 General,label,transfer,Transfer,Transfer
 Wallet,label,unavailable,Unavailable,Unavailable
-Transaction History,label,page_title,,
+Transaction History,label,page_title,Transaction History,Transaction History
+Seach Coin,label,title,Search coin,Search coin
+Seach Coin,label,placeholder,Search Coin Name,Search Coin Name
+Seach Coin,label,name,Name,Name
+Seach Coin,label,available,Available,Available
+Transaction Details,label,amount,Amount,Amount
+Transaction Details,label,note,Crypto has arrived in your Cryptoplat account.\nView your spot account balance for more details.,Crypto has arrived in your Cryptoplat account.\nView your spot account balance for more details.
+Transaction Details,label,confirmations,Confirmations,Confirmations
+Transaction Details,label,deposit_wallet,Deposit Wallet,Deposit Wallet
+Transaction Details,label,network,Network,Network
+Transaction Details,label,address,Address,Address
+Transaction Details,label,tx_id,Txid,Txid
+Transaction Details,label,date,Date,Date
+Transaction Details,label,network_fee,Network fee,Network fee
+Transaction Details,button,cancel_order,Cancel Order,Cancel Order
+Transaction Details,label,confirm_cancel_pending_title,Are you sure you want to cancel the pending order?,Are you sure you want to cancel the pending order?
+Transaction Details,label,confirm_cancel_pending_desc,Please note that the action is irreversible.,Please note that the action is irreversible.
+Transaction Details,label,ticket_id,Ticket ID,Ticket ID
+Transaction Details,label,fee,Fee,Fee
+Transaction Details,label,receive_amount,Received amount,Received amount
+General,label,trade,Trade,Trade
+Transaction Details,label,details,Details,Details
+General,label,buy,Buy,Buy
+General,label,sell,Sell,Sell

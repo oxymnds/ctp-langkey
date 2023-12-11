@@ -29,5 +29,8 @@ public extension LangKey {
         case labelDeposit = "general.label.deposit"
         case labelWithdraw = "general.label.withdraw"
         case labelTransfer = "general.label.transfer"
+        case labelTrade = "general.label.trade"
+        case labelBuy = "general.label.buy"
+        case labelSell = "general.label.sell"
     }
 }
