@@ -177,6 +177,8 @@
     "ndid_waiting.label.verify_desc": "Please Verify your identification at %@ Mobile application within 60 minutes and return to continue your transaction here",
     "ndid_waiting.label.timeout_subpage_title": "Sorry, you didn’t finish the \\nprocess within the time limit",
     "ndid_waiting.label.timeout_subpage_desc": "Please go back and redo the \\nprocess to continue",
+    "ndid_waiting.label.cancel_confirmation_title": "Do you want to cancel?",
+    "ndid_waiting.label.cancel_confirmation_desc": "This will cancel the verification process and you will not be able to access the app",
     "general.button.back": "Back",
     "general.button.edit": "Edit",
     "general.label.unknown_title": "Unknown",

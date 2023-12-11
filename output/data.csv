@@ -178,6 +178,8 @@ NDID Waiting,label,tx_ref,(Transaction ref: %@).,(Transaction ref: %@).
 NDID Waiting,label,verify_desc,Please Verify your identification at %@ Mobile application within 60 minutes and return to continue your transaction here,Please Verify your identification at %@ Mobile application within 60 minutes and return to continue your transaction here
 NDID Waiting,label,timeout_subpage_title,"Sorry, you didn’t finish the \nprocess within the time limit","Sorry, you didn’t finish the \nprocess within the time limit"
 NDID Waiting,label,timeout_subpage_desc,Please go back and redo the \nprocess to continue,Please go back and redo the \nprocess to continue
+NDID Waiting,label,cancel_confirmation_title,Do you want to cancel?,Do you want to cancel?
+NDID Waiting,label,cancel_confirmation_desc,This will cancel the verification process and you will not be able to access the app,This will cancel the verification process and you will not be able to access the app
 General,button,back,Back,Back
 General,button,edit,Edit,แก้ไข
 General,label,unknown_title,Unknown,ไม่สามารถระบุได้
