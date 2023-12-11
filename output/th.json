@@ -597,5 +597,6 @@
     "general.label.deposit": "Deposit",
     "general.label.withdraw": "Withdraw",
     "general.label.transfer": "Transfer",
-    "wallet.label.unavailable": "Unavailable"
+    "wallet.label.unavailable": "Unavailable",
+    "transaction_history.label.page_title": NaN
 }
