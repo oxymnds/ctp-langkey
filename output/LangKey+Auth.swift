@@ -17,5 +17,6 @@ public extension LangKey {
         case buttonResetMyPassword = "auth.button.reset_my_password"
         case labelForgotPasswordSuccessTitle = "auth.label.forgot_password_success_title"
         case labelForgotPasswordSuccessDesc = "auth.label.forgot_password_success_desc"
+        case labelResetPassword = "auth.label.reset_password"
     }
 }

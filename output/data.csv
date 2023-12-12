@@ -20,6 +20,7 @@ Auth,label,page_desc_forgot_password,Please enter your email and we will send yo
 Auth,button,reset_my_password,Reset My Password,Reset My Password
 Auth,label,forgot_password_success_title,We just sent a password reset link to your email,We just sent a password reset link to your email
 Auth,label,forgot_password_success_desc,"To change your password, please press the link sent to","To change your password, please press the link sent to"
+Auth,label,reset_password,Reset Password,Reset Password
 General,button,next,Next,ต่อไป
 General,button,confirm,Confirm,ยืนยัน
 General,button,sending,Sending ...,กำลังดำเนินการ ...

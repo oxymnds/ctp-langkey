@@ -20,6 +20,7 @@
     "auth.button.reset_my_password": "Reset My Password",
     "auth.label.forgot_password_success_title": "We just sent a password reset link to your email",
     "auth.label.forgot_password_success_desc": "To change your password, please press the link sent to",
+    "auth.label.reset_password": "Reset Password",
     "general.button.next": "ต่อไป",
     "general.button.confirm": "Confirm",
     "general.button.sending": "กำลังดำเนินการ ...",
