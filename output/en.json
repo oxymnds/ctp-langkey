@@ -627,5 +627,6 @@
     "general.label.trade": "Trade",
     "transaction_details.label.details": "Details",
     "general.label.buy": "Buy",
-    "general.label.sell": "Sell"
+    "general.label.sell": "Sell",
+    "general.button.ok": "OK"
 }

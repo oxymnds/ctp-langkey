@@ -631,3 +631,4 @@ General,label,trade,Trade,Trade
 Transaction Details,label,details,Details,Details
 General,label,buy,Buy,Buy
 General,label,sell,Sell,Sell
+General,button,ok,OK,OK
