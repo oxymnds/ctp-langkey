@@ -154,6 +154,10 @@ eKYC Infomation,label,passport,Passport Number,Passport Number
 eKYC Infomation,placeholder,passport,Please input Passport Number,Please input Passport Number
 eKYC Infomation,label,nationality,Nationality,Nationality
 eKYC Infomation,placeholder,nationality,Please select Nationality,Please select Nationality
+eKYC Infomation,label,fname_must_th,First Name should be in Thai,First Name should be in Thai
+eKYC Infomation,label,lname_must_th,Last Name should be in Thai,Last Name should be in Thai
+eKYC Infomation,label,fname_must_en,First Name should be in English,First Name should be in English
+eKYC Infomation,label,lname_must_en,Last Name should be in English,Last Name should be in English
 NDID,label,page_title,Identity Verification via NDID,Identity Verification via NDID
 NDID,label,subpage_title,Terms and Conditions,Terms and Conditions
 NDID,button,scroll_to_bottom,Scroll down to the bottom,Scroll down to the bottom

@@ -42,5 +42,9 @@ public extension LangKey {
         case placeholderPassport = "ekyc_infomation.placeholder.passport"
         case labelNationality = "ekyc_infomation.label.nationality"
         case placeholderNationality = "ekyc_infomation.placeholder.nationality"
+        case labelFnameMustTh = "ekyc_infomation.label.fname_must_th"
+        case labelLnameMustTh = "ekyc_infomation.label.lname_must_th"
+        case labelFnameMustEn = "ekyc_infomation.label.fname_must_en"
+        case labelLnameMustEn = "ekyc_infomation.label.lname_must_en"
     }
 }
