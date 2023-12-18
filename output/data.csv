@@ -639,5 +639,16 @@ General,button,ok,OK,OK
 General,label,completed,Completed,Completed
 Withdraw Crypto,label,page_title,Withdraw Crypto,Withdraw Crypto
 Withdraw Crypto,label,select_a_coin,Select a coin,Select a coin
-Withdraw Crypto,label,total,Total,Toal
+Withdraw Crypto,label,total,Total,Total
 Withdraw Crypto,label,available,Available,Available
+Withdraw Crypto,label,withdrawal_limit,*24hr withdrawal limit,*24hr withdrawal limit
+Withdraw Crypto,label,network,Network,Network
+Withdraw Crypto,label,recipient_s_address,Recipient’s Address,Recipient’s Address
+Withdraw Crypto,label,memo,Memo,Memo
+Withdraw Crypto,label,amount,Amount,Amount
+General,label,optional,Optional,Optional
+Withdraw Crypto,label,minimum_withdrawal,Minimum Withdrawal,Minimum Withdrawal
+Withdraw Crypto,label,transaction_fee,Transaction Fee,Transaction Fee
+Withdraw Crypto,label,you_will_get,You will get,You will get
+Withdraw Crypto,label,confirm_if,Confirm if the receiving address requires a MEMO,Confirm if the receiving address requires a MEMO
+Withdraw Crypto,label,confirm_withdrawal,Confirm Withdrawal,Confirm Withdrawal

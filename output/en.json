@@ -637,5 +637,16 @@
     "withdraw_crypto.label.page_title": "Withdraw Crypto",
     "withdraw_crypto.label.select_a_coin": "Select a coin",
     "withdraw_crypto.label.total": "Total",
-    "withdraw_crypto.label.available": "Available"
+    "withdraw_crypto.label.available": "Available",
+    "withdraw_crypto.label.withdrawal_limit": "*24hr withdrawal limit",
+    "withdraw_crypto.label.network": "Network",
+    "withdraw_crypto.label.recipient_s_address": "Recipient’s Address",
+    "withdraw_crypto.label.memo": "Memo",
+    "withdraw_crypto.label.amount": "Amount",
+    "general.label.optional": "Optional",
+    "withdraw_crypto.label.minimum_withdrawal": "Minimum Withdrawal",
+    "withdraw_crypto.label.transaction_fee": "Transaction Fee",
+    "withdraw_crypto.label.you_will_get": "You will get",
+    "withdraw_crypto.label.confirm_if": "Confirm if the receiving address requires a MEMO",
+    "withdraw_crypto.label.confirm_withdrawal": "Confirm Withdrawal"
 }

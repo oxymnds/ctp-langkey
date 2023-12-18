@@ -34,5 +34,6 @@ public extension LangKey {
         case labelSell = "general.label.sell"
         case buttonOk = "general.button.ok"
         case labelCompleted = "general.label.completed"
+        case labelOptional = "general.label.optional"
     }
 }
