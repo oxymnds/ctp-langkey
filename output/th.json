@@ -632,5 +632,10 @@
     "transaction_details.label.details": "Details",
     "general.label.buy": "Buy",
     "general.label.sell": "Sell",
-    "general.button.ok": "OK"
+    "general.button.ok": "OK",
+    "general.label.completed": "Completed",
+    "withdraw_crypto.label.page_title": "Withdraw Crypto",
+    "withdraw_crypto.label.select_a_coin": "Select a coin",
+    "withdraw_crypto.label.total": "Toal",
+    "withdraw_crypto.label.available": "Available"
 }
