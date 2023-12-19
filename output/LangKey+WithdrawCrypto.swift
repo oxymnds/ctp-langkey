@@ -16,5 +16,14 @@ public extension LangKey {
         case labelConfirmWithdrawal = "withdraw_crypto.label.confirm_withdrawal"
         case labelEnsureAdd = "withdraw_crypto.label.ensure_add"
         case labelTransactionsCannotCancel = "withdraw_crypto.label.transactions_cannot_cancel"
+        case labelSource = "withdraw_crypto.label.source"
+        case labelPleaseNote = "withdraw_crypto.label.please_note"
+        case labelTheReceiverWillGet = "withdraw_crypto.label.the_receiver_will_get"
+        case labelWithdrawalRequestSubmitted = "withdraw_crypto.label.withdrawal_request_submitted"
+        case labelSecurityVerification = "withdraw_crypto.label.security_verification"
+        case labelPleseEnter6Digit = "withdraw_crypto.label.plese_enter_6_digit"
+        case labelGetCode = "withdraw_crypto.label.get_code"
+        case labelPleseEnter6DigitEmail = "withdraw_crypto.label.plese_enter_6_digit_email"
+        case labelYourEmail = "withdraw_crypto.label.your_email"
     }
 }
