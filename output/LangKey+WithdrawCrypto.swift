@@ -14,5 +14,7 @@ public extension LangKey {
         case labelYouWillGet = "withdraw_crypto.label.you_will_get"
         case labelConfirmIf = "withdraw_crypto.label.confirm_if"
         case labelConfirmWithdrawal = "withdraw_crypto.label.confirm_withdrawal"
+        case labelEnsureAdd = "withdraw_crypto.label.ensure_add"
+        case labelTransactionsCannotCancel = "withdraw_crypto.label.transactions_cannot_cancel"
     }
 }

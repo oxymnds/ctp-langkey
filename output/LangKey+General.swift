@@ -35,5 +35,6 @@ public extension LangKey {
         case buttonOk = "general.button.ok"
         case labelCompleted = "general.label.completed"
         case labelOptional = "general.label.optional"
+        case buttonContinue = "general.button.continue"
     }
 }

@@ -648,5 +648,8 @@
     "withdraw_crypto.label.transaction_fee": "Transaction Fee",
     "withdraw_crypto.label.you_will_get": "You will get",
     "withdraw_crypto.label.confirm_if": "Confirm if the receiving address requires a MEMO",
-    "withdraw_crypto.label.confirm_withdrawal": "Confirm Withdrawal"
+    "withdraw_crypto.label.confirm_withdrawal": "Confirm Withdrawal",
+    "withdraw_crypto.label.ensure_add": "Ensure that the address is correct and on the same network.",
+    "withdraw_crypto.label.transactions_cannot_cancel": "Transactions cannot be cancelled.",
+    "general.button.continue": "Continue"
 }
